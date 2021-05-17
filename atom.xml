@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-05-16T03:21:14.594Z</updated>
+  <updated>2021-05-17T04:38:40.430Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021.05.17</title>
+    <link href="https://node.umelabs.dev/2021/ckos4hq1y0000aapidwt05wyb/"/>
+    <id>https://node.umelabs.dev/2021/ckos4hq1y0000aapidwt05wyb/</id>
+    <published>2021-05-17T04:28:22.000Z</published>
+    <updated>2021-05-17T04:38:40.430Z</updated>
+    
+    <summary type="html">
+    
+      &lt;blockquote style=&#39;color:red;font-size:20px;&#39;&gt;昨天添加了更新历史页面，并且菜单栏改成了中文。&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/UmeLabs&quot;&gt;Twitter&lt;/a&gt; 欢迎关注推特账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2021.05.16</title>
@@ -441,28 +467,6 @@
     
       &lt;blockquote style=&quot;color:red;font-size:20px;&quot;&gt;没人注意到抽奖的感觉，这个抽奖所有人都可以参加的，只要转发那个文章或者那个我pin的推特都可以参加抽奖。如果没有iOS设备的话也可以参与，我可以换成亚马逊或者其他购物平台的购物卡，或者你们可以建议抽奖的物品。现在我把时间后延到2021.05.05&lt;/blockquote&gt;
 我发现一个奇怪的问题，就是这个[Node](https://github.com/UmeLabs/node.umelabs.dev)项目有一些人Fork了。
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>2021.04.28</title>
-    <link href="https://node.umelabs.dev/2021/ckos3k5td009gx7pihuwrb16l/"/>
-    <id>https://node.umelabs.dev/2021/ckos3k5td009gx7pihuwrb16l/</id>
-    <published>2021-04-28T06:12:36.000Z</published>
-    <updated>2021-04-28T07:12:34.639Z</updated>
-    
-    <summary type="html">
-    
-      &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
     
     </summary>
     
