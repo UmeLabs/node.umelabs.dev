@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-05-19T06:27:48.294Z</updated>
+  <updated>2021-05-20T04:56:12.782Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,61 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021.05.20</title>
+    <link href="https://node.umelabs.dev/2021/ckowl44td0000gjpigspf6gnm/"/>
+    <id>https://node.umelabs.dev/2021/ckowl44td0000gjpigspf6gnm/</id>
+    <published>2021-05-20T04:53:12.000Z</published>
+    <updated>2021-05-20T04:56:12.782Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️</p></li><li><p>记得关注YouTube频道获得更多消息哦！🔔<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p></li><li><p><a href="https://twitter.com/UmeLabs">Twitter</a> 欢迎关注推特账号</p></li></ol><span id="more"></span><h1 id="SS"><a href="#SS" class="headerlink" title="SS"></a>SS</h1><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs http"><br></code></pre></td></tr></table></figure><h1 id="SSR"><a href="#SSR" class="headerlink" title="SSR"></a>SSR</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs http">ssr://ODUuMTE3LjIzNS4zMToxMzcxMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1l6WS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNRJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://MTg1LjIyLjE1My42NToxMzcxMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1l6WS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNnJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://NDUuMTI5LjMuMjQyOjEzNzEyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWXpZLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2U3cmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://NDUuMTQ3LjIwMS4yNjoxMzcxMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1l6WS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlRBJmdyb3VwPVRHNWpiaTV2Y21j<br></code></pre></td></tr></table></figure><h1 id="V2Ray"><a href="#V2Ray" class="headerlink" title="V2Ray"></a>V2Ray</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs http">vmess://eyJhZGQiOiJ2MnVzMDEuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJhMWM0NjZkMS01YzFmLTQ2ZWUtOGQzYi0xZWUwMDE2NjY5NjgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDIuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiI2N2ExZjEwNy02ZWIyLTQ4Y2MtOTg0Yy1jNTIzN2MwNTI5OWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMiIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDMuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJiMGI3NGI0OS02MmYzLTQ4ZjctODMzYi03Nzc1MTcyZGNkOWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMyIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiMzgxZGUzMWMtMTA1NC1jMmM1LTI1YzUtODAzY2JhNGE1ZjFhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIn0=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjgwIiwiaWQiOiJhNzlmZTE4NS1mNzQzLTRkMGMtZTlmOC02NGYzMDZhODRiYWYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIvd3MiLCJ0bHMiOiJub25lIn0=<br></code></pre></td></tr></table></figure><blockquote><p>最后更新时间：2021.05.20</p></blockquote><h3 id="更新地址"><a href="#更新地址" class="headerlink" title="更新地址"></a>更新地址</h3><ul><li>YouTube：<a href="https://www.youtube.com/watch?v=ANgdDISlMcw">https://www.youtube.com/watch?v=ANgdDISlMcw</a></li><li>Github：<a href="https://github.com/umelabs/node.umelabs.dev">https://github.com/umelabs/node.umelabs.dev</a></li></ul><h3 id="订阅地址"><a href="#订阅地址" class="headerlink" title="订阅地址"></a>订阅地址</h3><ul><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md</a></p></li></ul><h2 id="节点来源"><a href="#节点来源" class="headerlink" title="节点来源"></a>节点来源</h2><ul><li><p><a href="https://lncn.org/">https://lncn.org/</a></p></li><li><p><a href="https://my.ishadowx.biz/">https://my.ishadowx.biz/</a></p></li><li><p><a href="https://free-ss.site/">https://free-ss.site/</a></p></li></ul><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><p>👏欢迎大家订阅YouTube频道：<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3><p>💥了解系列视频：<a href="https://bit.ly/2VsR4Gi">https://bit.ly/2VsR4Gi</a></p><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/UmeLabs&quot;&gt;Twitter&lt;/a&gt; 欢迎关注推特账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tor浏览器一些使用技巧</title>
+    <link href="https://node.umelabs.dev/2021/ckowl44tp0001gjpiav743hef/"/>
+    <id>https://node.umelabs.dev/2021/ckowl44tp0001gjpiav743hef/</id>
+    <published>2021-05-19T13:47:25.000Z</published>
+    <updated>2021-05-20T07:39:41.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>Tor浏览器或者说洋葱路由在使用的时候也有一些需要注意的事项，有一些小技巧可以记录下来。如果不了解Tor是什么可以去看这个<a href="https://www.youtube.com/watch?v=Dag9VTbQdj0">视频</a>。<span id="more"></span></p><h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>排除某些蜜罐节点，可以使自己更加安全的使用Tor，因为如果是一些审查比较严重的国家，这些节点来源可能泄漏自己的隐私。</p><h1 id="办法描述"><a href="#办法描述" class="headerlink" title="办法描述"></a>办法描述</h1><p>使用Tor最好是虚拟机 + VPN + Tor 这是最安全的，当然很多人肯定觉得麻烦，只有 VPN + Tor 或者只有Tor。这种情况下如何最小保护自己呢？</p><ol><li>所有网页都用HTTPS打开</li><li>排除一些国家或者地区的节点</li><li>指定国家或者地区的节点</li></ol><h2 id="关于第一点"><a href="#关于第一点" class="headerlink" title="关于第一点"></a>关于第一点</h2><p>如果网页数据是加密的话被破解可能还是很小的，如果是HTTP那么你所有的内容都会被ISP看到，包括输入的密码和邮箱以及你发表的言论如推特等。<br>所以最好强制所有网页以HTTPS打开。</p><h2 id="关于第二点"><a href="#关于第二点" class="headerlink" title="关于第二点"></a>关于第二点</h2><p>因为可能存在某些蜜罐节点钓鱼执法，所以排除这些国家或者地区的节点来说是最安全的。</p><h2 id="关于第三点"><a href="#关于第三点" class="headerlink" title="关于第三点"></a>关于第三点</h2><p>指定国家或者地区的办法是最安全的，因为你可能不知道哪些国家或者地区有蜜罐节点。</p><h1 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h1><ul><li>首先推荐安装 HTTPS Everywhere 和 NoScript扩展</li><li>修改<strong>torrc-defaults</strong>文件<h2 id="排除节点"><a href="#排除节点" class="headerlink" title="排除节点"></a>排除节点</h2><code>ExcludeNodes &#123;cn&#125;,&#123;hk&#125;,&#123;mo&#125;,&#123;kp&#125;,&#123;ir&#125;,&#123;sy&#125;,&#123;pk&#125;,&#123;cu&#125;,&#123;vn&#125;,&#123;ru&#125;,&#123;by&#125;</code><br><code>StrictNodes 1</code></li></ul><h2 id="严格限制出入节点国家"><a href="#严格限制出入节点国家" class="headerlink" title="严格限制出入节点国家"></a>严格限制出入节点国家</h2><blockquote><p>这里是挪威<br><code>EntryNodes &#123;no&#125;ExitNodes &#123;no&#125;</code></p></blockquote><blockquote><p>可以参考这个<a href="https://program-think.blogspot.com/2020/08/Tor-Triple-Proxy.html">链接</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Tor浏览器或者说洋葱路由在使用的时候也有一些需要注意的事项，有一些小技巧可以记录下来。如果不了解Tor是什么可以去看这个&lt;a href=&quot;https://www.youtube.com/watch?v=Dag9VTbQdj0&quot;&gt;视频&lt;/a&gt;。
+    
+    </summary>
+    
+    
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.05.19</title>
@@ -551,7 +606,7 @@
     <link href="https://node.umelabs.dev/2021/ckos3k5vi00a3x7piflfz3n5t/"/>
     <id>https://node.umelabs.dev/2021/ckos3k5vi00a3x7piflfz3n5t/</id>
     <published>2021-04-28T06:27:53.000Z</published>
-    <updated>2021-04-30T13:31:45.706Z</updated>
+    <updated>2021-05-19T13:49:31.539Z</updated>
     
     <content type="html"><![CDATA[<blockquote style="color:red;font-size:20px;">没人注意到抽奖的感觉，这个抽奖所有人都可以参加的，只要转发那个文章或者那个我pin的推特都可以参加抽奖。如果没有iOS设备的话也可以参与，我可以换成亚马逊或者其他购物平台的购物卡，或者你们可以建议抽奖的物品。现在我把时间后延到2021.05.05</blockquote>我发现一个奇怪的问题，就是这个[Node](https://github.com/UmeLabs/node.umelabs.dev)项目有一些人Fork了。<span id="more"></span><h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>因为这个项目的已经有一段时间了，然后我就去看了看一些数据，发现有一些人Fork了这个项目。这让我感到有些困惑，为什么呢？<br>一般来说只有你需要备份这个项目防止原项目被删除才需要Fork，或者你会进行二次开发才会使用这个功能，大多数情况你只需要Star就好了。<br>之前有出过一个视频讲解使用<a href="https://www.youtube.com/watch?v=Hk3SLmm1pJA">GitHub备份东西</a>的视频，难道是因为那个视频误导了大家吗？</p><h1 id="然后抽奖"><a href="#然后抽奖" class="headerlink" title="然后抽奖"></a>然后抽奖</h1><p>已经Fork这个项目的人可以直接删除这个项目然后Star这个项目。<br>抽奖：</p><ol><li>删除Fork</li><li><a href="https://github.com/UmeLabs/node.umelabs.dev">Star</a>这个项目</li><li>关注<a href="https://twitter.com/UmeLabs">Twitter</a></li><li>等待被选中</li><li>抽奖人数： 3 人</li><li>奖品： 美区App Store翻墙app兑换码</li><li>截止时间： <del>2021年4月30号</del>   2021年5月5号</li><li>获奖名单会在<a href="https://twitter.com/UmeLabs">Twitter</a>和这个网站公开（如果不想被公开请推特私信我）<h1 id="一些说明"><a href="#一些说明" class="headerlink" title="一些说明"></a>一些说明</h1></li></ol><ul><li>之所以需要关注推特是因为我需要私信把兑换码发送给你</li><li>然后之所以提这个是因为后面会写一个文章并且做一个关于GitHub和Git有关的视频</li></ul>]]></content>
     
@@ -563,6 +618,14 @@
     </summary>
     
     
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
