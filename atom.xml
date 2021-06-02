@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-06-01T06:50:38.858Z</updated>
+  <updated>2021-06-02T14:07:55.271Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021.06.02</title>
+    <link href="https://node.umelabs.dev/2021/ckpfk06yy000031pi82f0folh/"/>
+    <id>https://node.umelabs.dev/2021/ckpfk06yy000031pi82f0folh/</id>
+    <published>2021-06-02T14:04:07.000Z</published>
+    <updated>2021-06-02T14:07:55.271Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️</p></li><li><p>记得关注YouTube频道获得更多消息哦！🔔<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p></li><li><p><a href="https://twitter.com/UmeLabs">Twitter</a> 欢迎关注推特账号</p></li></ol><span id="more"></span><h1 id="SS"><a href="#SS" class="headerlink" title="SS"></a>SS</h1><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs http"><br></code></pre></td></tr></table></figure><h1 id="SSR"><a href="#SSR" class="headerlink" title="SSR"></a>SSR</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs http">ssr://MTk0LjUwLjE3MS4yMzE6MTIxNjM6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djVGsvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUUSZncm91cD1URzVqYmk1dmNtYw<br>ssr://MTk0LjUwLjE3MS42MDoxMjE2MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2NUay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlRnJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://NDUuOC4xNTkuMTY2OjEyMTYzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnY1RrLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VHcmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://NDYuMjkuMTY1LjIyMDoxMjE2MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2NUay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlVBJmdyb3VwPVRHNWpiaTV2Y21j<br></code></pre></td></tr></table></figure><h1 id="V2Ray"><a href="#V2Ray" class="headerlink" title="V2Ray"></a>V2Ray</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs http">vmess://eyJhZGQiOiJ2MnVzMDEuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJmMGQ4MWRkNS1iN2JlLTQwOTUtOTc4MC0xYTRhOWVmYTk1NWIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDIuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiIxODcxNjdhYy00MmNkLTQ0YzgtODEwNS03ZjE3Nzg5NmYwZTkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMiIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDMuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiI0NThmMTQ0OS03ZTMyLTQ5YWEtYWNmMS03MThjODk4ODg5NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMyIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiMThmMmU0NzAtZjQwZi05MWQxLTlmMDItZTA2NTA3NmE2Yjc0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIn0=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjgwIiwiaWQiOiI0OGYxMDI1MC1lZDZjLTYzNTAtMWE2ZS02MmVjNGUyMWM2Y2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIvd3MiLCJ0bHMiOiJub25lIn0=<br></code></pre></td></tr></table></figure><blockquote><p>最后更新时间：2021.06.02</p></blockquote><h3 id="更新地址"><a href="#更新地址" class="headerlink" title="更新地址"></a>更新地址</h3><ul><li>YouTube：<a href="https://www.youtube.com/watch?v=ANgdDISlMcw">https://www.youtube.com/watch?v=ANgdDISlMcw</a></li><li>Github：<a href="https://github.com/umelabs/node.umelabs.dev">https://github.com/umelabs/node.umelabs.dev</a></li></ul><h3 id="订阅地址"><a href="#订阅地址" class="headerlink" title="订阅地址"></a>订阅地址</h3><ul><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md</a></p></li></ul><h2 id="节点来源"><a href="#节点来源" class="headerlink" title="节点来源"></a>节点来源</h2><ul><li><p><a href="https://lncn.org/">https://lncn.org/</a></p></li><li><p><a href="https://my.ishadowx.biz/">https://my.ishadowx.biz/</a></p></li><li><p><a href="https://free-ss.site/">https://free-ss.site/</a></p></li></ul><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><p>👏欢迎大家订阅YouTube频道：<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3><p>💥了解系列视频：<a href="https://bit.ly/2VsR4Gi">https://bit.ly/2VsR4Gi</a></p><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/UmeLabs&quot;&gt;Twitter&lt;/a&gt; 欢迎关注推特账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>浏览器的选择</title>
+    <link href="https://node.umelabs.dev/2021/ckpe77vbi0000eipi9j8z050d/"/>
+    <id>https://node.umelabs.dev/2021/ckpe77vbi0000eipi9j8z050d/</id>
+    <published>2021-06-01T08:55:28.000Z</published>
+    <updated>2021-06-02T14:16:53.488Z</updated>
+    
+    <content type="html"><![CDATA[<p>关于浏览器的选择，在YouTube频道也有做视频，有关于浏览器<a href="https://www.youtube.com/watch?v=XeDcykHc7As">配置</a>和<a href="https://www.youtube.com/watch?v=xWDvHslCs_k">安全</a>方面的，还有<a href="https://www.youtube.com/watch?v=Dag9VTbQdj0">Tor</a>浏览器有关的视频。但是，通过谷歌分析发现还有一些人使用并不是很安全的浏览器。浏览器的选择或者说软件的选择上有几个需要注意的点，下面我们来看看。<span id="more"></span></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在开始之前可以看看这篇关于<a href="https://www.forbes.com/sites/thomasbrewster/2021/06/01/exclusive-alibabas-huge-browser-business-is-recording-millions-of-android-and-iphone-users-private-web-habits/?sh=6fd2252261f2">UC浏览器</a>安全问题的文章。</p><h1 id="背景和题外话"><a href="#背景和题外话" class="headerlink" title="背景和题外话"></a>背景和题外话</h1><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>为什么想要写这样一篇文章呢？主要是因为看到谷歌分析的数据而想到要写这样一篇文章。因为一些人使用的浏览器让人感到很忧虑。</p><h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>在说浏览器之前，这里说一下选择软件或者服务的一些需要注意的事项。</p><ol><li>尽量选择非商业公司的软件或者服务</li><li>优先选择开源的软件或者服务</li><li>查看他们是否收集私人信息，如个人电话号码，邮箱，出生年月等等</li><li>查看他们是否把你的信息共享给其他公司或者机构<br>其中开源是最重要的，因为开源大家可以看到源代码，知道他们做了什么，当然有的公司可能只开源了前端代码而没有开源后端代码。</li></ol><h1 id="浏览器选择"><a href="#浏览器选择" class="headerlink" title="浏览器选择"></a>浏览器选择</h1><h2 id="桌面端或者说PC-Desktop版"><a href="#桌面端或者说PC-Desktop版" class="headerlink" title="桌面端或者说PC/Desktop版"></a>桌面端或者说PC/Desktop版</h2><p>因为前面的题外话，我们可以直接排除一些所谓“国产”浏览器，包括腾讯，搜狗，阿里巴巴等商业公司的浏览器产品。<br>以下是一个推荐排行：</p><ol><li><a href="https://www.torproject.org">Tor</a>浏览器或者叫洋葱路由</li><li><a href="https://www.mozilla.org/en-US/firefox/new/">FireFox</a>浏览器又叫火狐浏览器（⚠️注意不要下载中国特供版）</li><li><a href="https://www.chromium.org/getting-involved/download-chromium">Chromium</a> (Chrome浏览器或谷歌浏览器开源版本)</li><li><a href="https://brave.com">Brave</a> 浏览器</li><li><a href="https://www.opera.com">Opera</a> 浏览器 (桌面版自带VPN，注意不要下载中国特供版)</li><li><a href="https://www.apple.com/safari/">Safari</a> (仅支持苹果设备，也有Windows版本，不过停止更新了)</li><li><a href="https://www.microsoft.com/en-us/edge">Edge</a> 浏览器（这里说的是基于Chromium开发的版本）</li><li><a href="https://www.google.com/chrome/">Chrome</a>浏览器或谷歌浏览器（说实话不是很喜欢，但的确是个好的浏览器）</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>选择开源的浏览器是最好的，优先推荐Tor，再然后是FireFox。如果你有选择困难症，可以看看<a href="https://www.mozilla.org/zh-CN/firefox/browsers/compare/">FireFox</a>写的这篇文章对比。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;关于浏览器的选择，在YouTube频道也有做视频，有关于浏览器&lt;a href=&quot;https://www.youtube.com/watch?v=XeDcykHc7As&quot;&gt;配置&lt;/a&gt;和&lt;a href=&quot;https://www.youtube.com/watch?v=xWDvHslCs_k&quot;&gt;安全&lt;/a&gt;方面的，还有&lt;a href=&quot;https://www.youtube.com/watch?v=Dag9VTbQdj0&quot;&gt;Tor&lt;/a&gt;浏览器有关的视频。但是，通过谷歌分析发现还有一些人使用并不是很安全的浏览器。浏览器的选择或者说软件的选择上有几个需要注意的点，下面我们来看看。
+    
+    </summary>
+    
+    
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
+    
+      <category term="浏览器系列" scheme="https://node.umelabs.dev/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%B3%BB%E5%88%97/"/>
+    
+      <category term="隐私" scheme="https://node.umelabs.dev/tags/%E9%9A%90%E7%A7%81/"/>
+    
+      <category term="安全" scheme="https://node.umelabs.dev/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.06.01</title>
