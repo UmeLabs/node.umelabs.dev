@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-06-23T01:50:35.651Z</updated>
+  <updated>2021-06-23T05:12:55.412Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>账户安全二三事</title>
+    <link href="https://node.umelabs.dev/2021/ckq90ubop0000tipi215j2z3v/"/>
+    <id>https://node.umelabs.dev/2021/ckq90ubop0000tipi215j2z3v/</id>
+    <published>2021-06-23T05:08:23.000Z</published>
+    <updated>2021-06-23T05:12:55.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前经历过几次账户被盗，也经历过几次使用的服务账户信息泄漏。账户被盗是可控的，而账户信息泄漏一般是不可控的。因为账户信息被动泄漏一般是使用的产品或服务的数据库被黑客攻破，这样一般自己是无法控制的。所以，如何保护自己的账户防止被盗是十分重要的，以及如何减小账户信息泄漏的风险是这一篇文章所要关注的。<span id="more"></span></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一般一个人的账户有几个部分组成：邮箱、用户名、密码。如果是其他类别的账户可能还包含更多隐私信息，比如说生日、真实姓名、地址、电话号码、身份证号码、脸部照片、银行卡信息等等。<br>账户里如果有金钱等财产，一旦账户被盗就会出现很大的损失。一般人在设置密码或者用户名时喜欢在里面包含自己的私人信息，然后密码设置的非常简单，诸如12345678之类的简单数字。<br>密码设置的过于简单或者一个密码用于多个账户，这样都会非常容易造成账户被盗。还有一个会造成账户被盗与密码有关的事，使用一个密码很久的时间。</p><h1 id="防止账户被盗可以采取的措施"><a href="#防止账户被盗可以采取的措施" class="headerlink" title="防止账户被盗可以采取的措施"></a>防止账户被盗可以采取的措施</h1><h2 id="和密码有关的措施"><a href="#和密码有关的措施" class="headerlink" title="和密码有关的措施"></a>和密码有关的措施</h2><p>一般来说账户被破解，首先是因为密码的问题，密码太过简单很容易被破解。设定一个复杂的密码是最主要的办法，可以使用LastPass提供的这个<a href="https://www.lastpass.com/password-generator">工具</a>来生成密码。你可以直接下载我下面提到一些密码管理器来生成密码。下面是一些可行的措施。</p><ol><li>设置复杂的密码。</li><li>不同的账户设置不同的密码。</li><li>定期更换密码。至少六个月更换一次密码。</li><li>监测密码是否泄漏，可以使用<a href="https://haveibeenpwned.com">haveibeenpwned</a>和<a href="https://monitor.firefox.com">Firefox Monitor</a>来监测</li><li>使用密码管理器，这样可以随机生成复杂不同的密码，而且一般密码管理也自带两步验证。可以使用1Password，谷歌浏览器，safari浏览器，或者火狐浏览器。<h3 id="提到的app-两个版本下载链接"><a href="#提到的app-两个版本下载链接" class="headerlink" title="提到的app 两个版本下载链接"></a>提到的app 两个版本下载链接</h3>除了密码管理器，上面提到了浏览器，之所以说浏览器因为浏览器一般支持同步功能，比如说谷歌浏览器就支持账户和密码的同步，而且支持生成密码。</li></ol><ul><li>1Password - Password Manager <a href="https://apps.apple.com/us/app/1password-password-manager/id568903335">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.agilebits.onepassword">Android</a></li><li>Bitwarden Password Manager <a href="https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.x8bit.bitwarden">Android</a></li><li>Firefox Lockwise <a href="https://apps.apple.com/us/app/firefox-lockwise/id1314000270">iOS</a> <a href="https://play.google.com/store/apps/details?id=mozilla.lockbox&referrer=adjust_reftag%3DcZHTioRzzsVUc%26utm_source%3DProduct%2BMarketing%26utm_campaign%3Dwww.mozilla.org%26utm_content%3Dlockwise-page">Android</a></li><li>LastPass Password Manager <a href="https://apps.apple.com/us/app/lastpass-password-manager/id324613447">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.lastpass.lpandroid">Android</a></li></ul><h2 id="和账户有关的措施"><a href="#和账户有关的措施" class="headerlink" title="和账户有关的措施"></a>和账户有关的措施</h2><p>一个账户除了密码以外，还有可能有用户和电子邮箱或者更多和身份识别有关的设定。那么针对这些采取一些措施也可以保证账户安全。设置一个不一样的用户名也是一个好办法，LastPass就提供了这样一个<a href="https://www.lastpass.com/username-generator">工具</a></p><ol><li>设置两步验证，可以使用谷歌验证器或者微软的两步验证app，LastPass Authenticator。需要注意的是最好不要用手机号码来作为验证的办法，这样很容易泄漏自己的信息，或者变相的实名认证。</li></ol><ul><li>谷歌验证器 <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iOS版</a> 和 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US">Android版</a></li><li>微软验证器 <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">iOS版</a> 和 <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator">Android版本</a></li><li>LastPass Authenticator <a href="https://apps.apple.com/us/app/lastpass-authenticator/id1079110004">iOS</a>版 和 <a href="https://play.google.com/store/apps/details?id=com.lastpass.authenticator">Android</a>版</li></ul><ol start="2"><li>注册的邮箱也开启两步验证。因为如果你的邮箱被盗，那里面的数据也会被泄漏，那么你与其关联的账户信息很容易被盗。</li><li>使用随机的用户名。这个好像很少人这么做，一般大概是一个用户名用于多个账户？比如Twitter和电子邮箱账户名一样。</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>其实整篇文章说了这么多，最主要的是开启二次验证增加安全性，一般来说开启了二次验证，即使密码和用户名被知道也无法登陆你的账户。关于二次验证怎么用，之前也做过相关的<a href="https://www.youtube.com/watch?v=lpEbVNh4USI">视频</a>。然后是使用密码管理器，来生成复杂安全的密码，并且是每一个账户不同密码。其中<a href="https://www.mozilla.org/en-US/firefox/lockwise/">Firefox Lockwise</a> 和 <a href="https://bitwarden.com">Bitwarden</a>是开源的，开源软件一般可以作为首选。Bitwarden如果你不想使用他们的服务器，可以自己搭建。说实话，任何存储在云端的文件或者什么都不是安全的，只有存储在本地的才是最可靠安全的。当然如果你说存储在本地的介质遗失了，那么就没有讨论意义了。还有一个需要注意的是，如果你账户注册邮箱没有开启二次验证，那同样会导致关联账户不安全。<br>欢迎大家通过<a href="https://github.com/UmeLabs/node.umelabs.dev/issues">GitHub issue</a>评论。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前经历过几次账户被盗，也经历过几次使用的服务账户信息泄漏。账户被盗是可控的，而账户信息泄漏一般是不可控的。因为账户信息被动泄漏一般是使用的产品或服务的数据库被黑客攻破，这样一般自己是无法控制的。所以，如何保护自己的账户防止被盗是十分重要的，以及如何减小账户信息泄漏的风险是这一篇文章所要关注的。
+    
+    </summary>
+    
+    
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
+    
+      <category term="隐私" scheme="https://node.umelabs.dev/tags/%E9%9A%90%E7%A7%81/"/>
+    
+      <category term="安全" scheme="https://node.umelabs.dev/tags/%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="账户安全" scheme="https://node.umelabs.dev/tags/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.06.23</title>
