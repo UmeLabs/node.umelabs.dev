@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-06-30T02:33:20.307Z</updated>
+  <updated>2021-07-01T02:22:21.956Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,69 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021.07.01</title>
+    <link href="https://node.umelabs.dev/2021/ckqka9zyd000075pi1yvo68gz/"/>
+    <id>https://node.umelabs.dev/2021/ckqka9zyd000075pi1yvo68gz/</id>
+    <published>2021-07-01T02:09:44.000Z</published>
+    <updated>2021-07-01T02:22:21.956Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li><p>⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️</p></li><li><p>记得关注YouTube频道获得更多消息哦！🔔<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p></li><li><p><a href="https://twitter.com/UmeLabs">Twitter</a> 欢迎关注推特账号</p></li></ol><span id="more"></span><h1 id="SS"><a href="#SS" class="headerlink" title="SS"></a>SS</h1><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs http"><br></code></pre></td></tr></table></figure><h1 id="SSR"><a href="#SSR" class="headerlink" title="SSR"></a>SSR</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs http">ssr://ODUuMTE3LjIzNC40NjoxMjk5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1pEWS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNRJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://NDUuOC4xNTkuNjY6MTI5OTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2daRFkvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTZyZncm91cD1URzVqYmk1dmNtYw<br>ssr://NDUuMTMwLjE0Ni40ODoxMjk5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1pEWS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlN3Jmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://NDUuMTQ3LjIwMS4yNjoxMjk5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2F6Yy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlRBJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://OTEuMjA2LjkzLjI2OjEyOTk2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT0d3Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VFEmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://MTk0LjUwLjE3MS4xMDQ6MTI5OTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPR3cvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZUZyZncm91cD1URzVqYmk1dmNtYw<br>ssr://NDUuOC4xNTkuMTY2OjEyOTk2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZVRFLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VHcmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://MTk0LjE0Ny4zNC4xNjQ6MTI5OTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPR3cvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZVQSZncm91cD1URzVqYmk1dmNtYw<br></code></pre></td></tr></table></figure><h1 id="V2Ray"><a href="#V2Ray" class="headerlink" title="V2Ray"></a>V2Ray</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs http">vmess://eyJhZGQiOiJ2MnVzMDEuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiI4MTBhNzJkNC1lZTNmLTRmZjItYTlkNC1kYjk4ZGVmYWUzODAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDIuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJlZjBlM2RiOS1iOTc2LTRjNDktOWY5Zi1hMTE2MmZlNDIxYjYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMiIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDMuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiJlMmZjMTdjMy1jMDFjLTRmNGItOGNhYS1iZjhkYjBiODU3YzkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMyIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiMmQyZTE1YWUtNDk0Ny0yMzVhLWU0MjUtMTQ2OTYzZDE3NzZkIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIn0=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjgwIiwiaWQiOiI0NDQ5NmQ4MS05YTlhLWZiMTEtYTQ4YS1hMjJjYzIwMmUwZDkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIvd3MiLCJ0bHMiOiJub25lIn0=<br></code></pre></td></tr></table></figure><blockquote><p>最后更新时间：2021.07.01</p></blockquote><h3 id="更新地址"><a href="#更新地址" class="headerlink" title="更新地址"></a>更新地址</h3><ul><li>YouTube：<a href="https://www.youtube.com/watch?v=ANgdDISlMcw">https://www.youtube.com/watch?v=ANgdDISlMcw</a></li><li>Github：<a href="https://github.com/umelabs/node.umelabs.dev">https://github.com/umelabs/node.umelabs.dev</a></li></ul><h3 id="订阅地址"><a href="#订阅地址" class="headerlink" title="订阅地址"></a>订阅地址</h3><ul><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md</a></p></li></ul><h2 id="节点来源"><a href="#节点来源" class="headerlink" title="节点来源"></a>节点来源</h2><ul><li><p><a href="https://lncn.org/">https://lncn.org/</a></p></li><li><p><a href="https://my.ishadowx.biz/">https://my.ishadowx.biz/</a></p></li><li><p><a href="https://free-ss.site/">https://free-ss.site/</a></p></li></ul><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><p>👏欢迎大家订阅YouTube频道：<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3><p>💥了解系列视频：<a href="https://bit.ly/2VsR4Gi">https://bit.ly/2VsR4Gi</a></p><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/UmeLabs&quot;&gt;Twitter&lt;/a&gt; 欢迎关注推特账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>苹果手机翻墙应用VPN</title>
+    <link href="https://node.umelabs.dev/2021/ckqj5vv8w0000tupi9g144nkt/"/>
+    <id>https://node.umelabs.dev/2021/ckqj5vv8w0000tupi9g144nkt/</id>
+    <published>2021-06-30T07:25:24.000Z</published>
+    <updated>2021-06-30T07:31:32.946Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前出过一期<a href="https://www.youtube.com/watch?v=7SjlQsTgYxs">视频</a>介绍手机上的VPN应用或者说VPN app，然后这篇文章相当于一个总结。会列出一些之前视频里提过的app，也会新增一些最新发现的。</p><span id="more"></span><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一般来说，自己服务器是最好的选择，可以选择<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>来自建服务器，然后搭配<a href="https://getoutline.org/">Outline VPN</a>更加的方便。而且，使用了一段时间感觉还是蛮稳定的，在某些特殊时期也很稳健。但是，有的人可能只是偶尔需要使用翻墙，所以自建服务器性价比不是很高。当然，如果你是软件工程师，可以最大化的利用服务器。比如说，在搭建了翻墙服务器后，可以做一些需要后台支持的Web Apps，搭建一个自己的博客等等。</p><h1 id="应用-app-推荐"><a href="#应用-app-推荐" class="headerlink" title="应用/app 推荐"></a>应用/app 推荐</h1><h2 id="浏览器自带"><a href="#浏览器自带" class="headerlink" title="浏览器自带"></a>浏览器自带</h2><p>一些浏览器自带VPN，而且免费，不过有一个缺点就是需要一直在浏览器应用里使用，如果跳转到其他应用会自动断开，当然付费的话一般没这个问题。</p><ol><li><a href="https://alohabrowser.com">Aloha 浏览器</a></li><li><a href="https://cakebrowser.com">Cake 浏览器</a></li></ol><h2 id="免费-VPN-应用"><a href="#免费-VPN-应用" class="headerlink" title="免费 VPN 应用"></a>免费 VPN 应用</h2><p>下面的应用基本都支持全平台，有一些应用最新版本增加了广告，可以自行选择删除或者安装相应的app。</p><ol><li><a href="https://1.1.1.1">1.1.1.1</a> 这个是CLOUDFLARE推出的一款应用WARP模式相当于VPN，不过需要注意的是数据没有加密</li><li><a href="https://www.betternet.co">Betternet</a> 最新的版本好像流量有限了，需要看广告来获得更多流量。</li><li><a href="https://www.hotspotshield.com/">HotspotShield</a> 缺点是有广告。</li><li><a href="https://www.surfeasy.com/us/en/">SurfEasy VPN</a> 很久之前就注意到了这个app，不过缺点是流量有限，最多只能应急用一下。</li><li><a href="https://www.speedtest.net/apps/vpn">Speedtest</a> 这是一款很有名的app，是用来测试网速的工具。后来的版本添加了免费VPN。</li><li><a href="https://protonvpn.com/">Proton VPN</a> 免费，不限流量。缺点是需要注册才能使用。</li><li><a href="https://windscribe.com/">Windscribe</a> 每个月10GB免费流量</li></ol><h2 id="自建服务器-VPN-应用"><a href="#自建服务器-VPN-应用" class="headerlink" title="自建服务器 VPN 应用"></a>自建服务器 VPN 应用</h2><ol><li><a href="https://getoutline.org/">Outline VPN</a> 需要搭配服务器使用，支持多个平台，免费。</li><li><a href="https://www.nssurge.com/">Surge</a> 这个其实主要的作用并不是用来翻墙的，所以支持的协议没那么多。然后付费版本比较贵。</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>这类免费的翻墙app或者说VPN app作为日常使用的话不推荐，如果只是应急或者对于翻墙需求不是很大，那可以选择这里推荐的app。最好的方法还是自己搭建服务器，然后选择自己服务器 VPN app那里的推荐。自己服务器那里的app是需要自己搭建服务器来使用的，比如说你要用SS(Shadowsocks)，那么你可以在服务器上搭建SS，然后把配置文件填写到app里面，然后连接才可以使用。<a href="https://getoutline.org/">Outline VPN</a>之前就出过相关的<a href="https://www.youtube.com/watch?v=2NCAWJOPggA">视频</a>，可以观看教学来搭建。服务器推荐使用<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>来搭建，使用文章里的链接注册可以获得免费的100美金，而且可以用支付宝来付款。当然你也可以选择其他你喜欢的服务。<br>如果你有推荐的应用，欢迎到<a href="https://github.com/UmeLabs/node.umelabs.dev/issues">这里</a>评论。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前出过一期&lt;a href=&quot;https://www.youtube.com/watch?v=7SjlQsTgYxs&quot;&gt;视频&lt;/a&gt;介绍手机上的VPN应用或者说VPN app，然后这篇文章相当于一个总结。会列出一些之前视频里提过的app，也会新增一些最新发现的。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
+    
+      <category term="隐私" scheme="https://node.umelabs.dev/tags/%E9%9A%90%E7%A7%81/"/>
+    
+      <category term="安全" scheme="https://node.umelabs.dev/tags/%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="苹果手机翻墙" scheme="https://node.umelabs.dev/tags/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="科学上网" scheme="https://node.umelabs.dev/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.06.30</title>
