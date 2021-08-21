@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-08-21T04:43:56.931Z</updated>
+  <updated>2021-08-21T06:48:22.183Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何收看IPTV电视直播</title>
+    <link href="https://node.umelabs.dev/2021/ckslf87ys0000jhpifvuxcwpa/"/>
+    <id>https://node.umelabs.dev/2021/ckslf87ys0000jhpifvuxcwpa/</id>
+    <published>2021-08-21T06:44:26.000Z</published>
+    <updated>2021-08-21T06:48:22.183Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实之前就有想过写这个内容，一直搁置没有写。因为感觉看电视的人很少，更不用说电视直播了，广告无法跳过。而且看电视一般是为了看电视剧或者电影要不然就是新闻，但是现在这些都有非常好的替代服务。<span id="more"></span></p><h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>因为想在电视上，手机上看一些电视直播，所以就查找了很多资料，这里分享出来给有需要的人。也做了一个<a href="https://www.youtube.com/watch?v=eBxLwl9rgSc">YouTube视频</a>教大家如何观看电视直播的办法。视频里只介绍了免费观看电视直播的方法，这里也会说一些付费的电视直播服务。</p><h1 id="电视直播软件-应用-服务"><a href="#电视直播软件-应用-服务" class="headerlink" title="电视直播软件/应用/服务"></a>电视直播软件/应用/服务</h1><p>使用软件和电视直播源的办法可以有更多定制，因为可以选择直播源也就是可以选择自己想看的电视台或者内容。使用<a href="https://www.pluto.tv/live-tv/pluto-tv-action">Pluto TV</a>和<a href="https://tv.youtube.com/">YouTube TV</a> 这样的软件或者服务的话，就不需要自己去找直播源，但是可控性比较差，还有就是一般都需要付费。</p><h2 id="免费"><a href="#免费" class="headerlink" title="免费"></a>免费</h2><ol><li><a href="https://www.videolan.org/vlc/download-macosx.html">VLC</a> + <a href="https://github.com/iptv-org/iptv">电视直播源</a> 免费 不需要注册 但是需要结合电视直播源来使用。VLC支持多个平台（Mac Windows Linux），VLC有中文。</li><li><a href="https://www.pluto.tv/live-tv/pluto-tv-action">Pluto TV</a> 免费不需要注册，需要懂英文</li><li><a href="https://www.peacocktv.com">Peacock</a> 免费需要注册，需要懂英文</li><li><a href="https://www.plex.tv/watch-free-tv/">PLEX</a> 免费不需要注册，需要懂英文</li></ol><h2 id="付费"><a href="#付费" class="headerlink" title="付费"></a>付费</h2><ol><li><a href="https://tv.youtube.com/">YouTube TV</a> 64.99 美元/月 85个以上美国的电视频道 支持多个平台</li><li><a href="https://www.hulu.com/live-tv">hulu</a> 64.99 美元/月 75个以上美国的电视频道 支持多个平台</li><li><a href="https://www.sling.com">sling</a> 35 美元/月 32个以上美国的电视频道 支持多个平台</li><li><a href="https://www.philo.com/">philo</a> 25 美元/月 60个以上美国的电视频道 支持多个平台</li></ol><h1 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h1><p>如果是使用电视直播源的办法的话，这里有一个<a href="https://github.com/iptv-org/iptv">开源的项目</a>可以看一下，而且这个项目还有一个<a href="https://github.com/iptv-org/awesome-iptv">列表</a>告诉你有哪些软件或者应用可以使用这个直播源。然后不知道大家有没有兴趣一起建立一个repo更新电视直播源，比如说一些电影频道直播源更新。</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总体来说直播软件联合直播源是最好的办法，关于付费的其实支持的频道不多而且价格偏高，不是很划算。而且这里提到的服务基本只支持美国的频道，关于其他国家的服务并没有了解过，感兴趣的可以自行了解，也可以分享给我。</p><h1 id="参考素材"><a href="#参考素材" class="headerlink" title="参考素材"></a>参考素材</h1><ol><li><a href="https://blog.shuziyimin.org/34">https://blog.shuziyimin.org/34</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;其实之前就有想过写这个内容，一直搁置没有写。因为感觉看电视的人很少，更不用说电视直播了，广告无法跳过。而且看电视一般是为了看电视剧或者电影要不然就是新闻，但是现在这些都有非常好的替代服务。
+    
+    </summary>
+    
+    
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="IPTV" scheme="https://node.umelabs.dev/tags/IPTV/"/>
+    
+      <category term="电视直播" scheme="https://node.umelabs.dev/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD/"/>
+    
+      <category term="电视直播软件" scheme="https://node.umelabs.dev/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="电视直播app" scheme="https://node.umelabs.dev/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADapp/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.08.21</title>
