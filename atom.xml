@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-08-25T04:49:58.549Z</updated>
+  <updated>2021-08-25T05:36:58.461Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WireGuard一键脚本安装教程</title>
+    <link href="https://node.umelabs.dev/2021/cksr2fag40000yupihnw72a97/"/>
+    <id>https://node.umelabs.dev/2021/cksr2fag40000yupihnw72a97/</id>
+    <published>2021-08-25T05:35:56.000Z</published>
+    <updated>2021-08-25T05:36:58.461Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前做了一个<a href="https://www.youtube.com/watch?v=8H8886hVyNE">视频</a>并且写了几篇关于WireGuard安装的<a href="https://node.umelabs.dev/tags/WireGuard/">文章</a>，但是一连串的命令操作对于一些人来说可能有点困难。所以做了<a href="https://www.youtube.com/watch?v=FchhqFqnkos">视频</a>关于如何用脚本在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>安装WireGuard，这篇文章是对视频的补充。</p><span id="more"></span><h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><p>在开始安装之前，可以先下载好<a href="https://www.wireguard.com/install/">WireGuard客户端</a>，如果是电脑使用就下载电脑端客户端，手机就下载手机端的app。需要注意的是，如果你是用手机的话，建议扫码来完成客户端配置，因为手动输入还是有点麻烦的。然后从服务器下载二维码的话，建议使用<a href="https://cyberduck.io">Cyberduck</a>，从相应的应用商店下载。</p><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><ol><li><p>在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>创建好服务器，记录下ip地址和密码</p></li><li><p>通过终端命令ssh连接到服务器<br><code>ssh root@ip</code><br>@后面输入自己之前创建的服务器的ip地址，应该会让你输入密码，密码不会显示，你可以直接复制粘贴</p></li><li><p>运行脚本</p></li></ol><ul><li>下载脚本<br><code>wget --no-check-certificate -O /opt/wireguard.sh https://raw.githubusercontent.com/teddysun/across/master/wireguard.shchmod 755 /opt/wireguard.sh</code></li><li>从代码编译安装<br><code>/opt/wireguard.sh -s</code><br>或者</li><li>从repository直接安装<br><code>/opt/wireguard.sh -r</code></li></ul><ol start="4"><li>安装完成之后如果是电脑通过命令来得到客户端配置，如果是手机的话需要扫描二维码<br><code>WireGuard VPN Server installation completedWireGuard VPN default client file is below:/etc/wireguard/wg0_clientWireGuard VPN default client QR Code is below:/etc/wireguard/wg0_client.pngDownload and scan this QR Code with your phoneWelcome to visit: https://teddysun.com/554.htmlEnjoy it</code></li></ol><ul><li>配置电脑端的话，输出相应配置复制到客户端就可以了<br><code>cat /etc/wireguard/wg0_client</code></li><li>手机端的话通过Cyberduck预览或者下载图片扫描二维码就可以了，下面👇的是二维码图片地址<br><code>/etc/wireguard/wg0_client.png</code></li></ul><h1 id="其他操作"><a href="#其他操作" class="headerlink" title="其他操作"></a>其他操作</h1><ol><li>添加客户端配置<br><code>opt/wireguard.sh -a</code></li></ol><ol start="2"><li><p>删除客户端配置<br><code>/opt/wireguard.sh -d</code></p></li><li><p>列出所有用户<br><code>/opt/wireguard.sh -l</code></p></li><li><p>编译升级到当前最新版本<br><code>/opt/wireguard.sh -u</code></p></li><li><p>卸载<br><code>/opt/wireguard.sh -n</code></p></li></ol><h1 id="一些问题以及解决办法"><a href="#一些问题以及解决办法" class="headerlink" title="一些问题以及解决办法"></a>一些问题以及解决办法</h1><ul><li>在创建服务器时建议选择fedora作为操作系统，因为经过测试发现，在fedora运行脚本时成功率比较高。</li><li>然后每个月的价格是根据国家和地区有所区别，根据自己的喜好和需求来选择。</li><li>如果你运行脚本失败，可以多尝试几次。因为这里是在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>进行操作的，其他的服务器可能有所区别。</li><li>如果你是Windows操作系统，那么你可以选择自己进行SSH连接的工具比如说Putty，不过推荐使用<a href="https://hyper.is">Hyper</a>，这是一个开源软件，而且支持多平台，重要的是很好看。</li></ul><h1 id="一些链接"><a href="#一些链接" class="headerlink" title="一些链接"></a>一些链接</h1><ol><li><a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>使用这个链接注册你可以获得免费100美金使用，我也可以获得一定返利。</li><li><a href="https://www.wireguard.com/install/">WireGuard</a>客户端下载页面</li><li><a href="https://teddysun.com/554.html">秋水逸冰</a>关于这个脚本的说明和使用方法</li><li><a href="https://raw.githubusercontent.com/teddysun/across/master/wireguard.sh">脚本地址</a></li><li><a href="https://cyberduck.io">Cyberduck</a>下载页面</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前做了一个&lt;a href=&quot;https://www.youtube.com/watch?v=8H8886hVyNE&quot;&gt;视频&lt;/a&gt;并且写了几篇关于WireGuard安装的&lt;a href=&quot;https://node.umelabs.dev/tags/WireGuard/&quot;&gt;文章&lt;/a&gt;，但是一连串的命令操作对于一些人来说可能有点困难。所以做了&lt;a href=&quot;https://www.youtube.com/watch?v=FchhqFqnkos&quot;&gt;视频&lt;/a&gt;关于如何用脚本在&lt;a href=&quot;https://www.vultr.com/?ref=8658584-6G&quot;&gt;Vultr&lt;/a&gt;安装WireGuard，这篇文章是对视频的补充。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
+    
+      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
+    
+      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.08.25</title>
