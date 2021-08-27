@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://node.umelabs.dev/"/>
-  <updated>2021-08-26T07:07:48.402Z</updated>
+  <updated>2021-08-27T14:01:46.500Z</updated>
   <id>https://node.umelabs.dev/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021.08.27</title>
+    <link href="https://node.umelabs.dev/2021/cksufcbe70000x9piax4m1qev/"/>
+    <id>https://node.umelabs.dev/2021/cksufcbe70000x9piax4m1qev/</id>
+    <published>2021-08-27T13:58:16.000Z</published>
+    <updated>2021-08-27T14:01:46.500Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: 2021.08.26<br>date: 2021-08-26 11:38:40<br>tags:</p><hr><ol><li><p>⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️</p></li><li><p>记得关注YouTube频道获得更多消息哦！🔔<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p></li><li><p><a href="https://twitter.com/UmeLabs">Twitter</a> 欢迎关注推特账号</p></li></ol><span id="more"></span><h1 id="SS"><a href="#SS" class="headerlink" title="SS"></a>SS</h1><figure class="highlight http"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs http"><br></code></pre></td></tr></table></figure><h1 id="SSR"><a href="#SSR" class="headerlink" title="SSR"></a>SSR</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs http">ssr://NDYuMjkuMTY3LjEwNzozNjMyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1hRLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VlEmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://MTk0LjE0Ny4zMi4xNDg6MzYzMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09YUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlZnJmdyb3VwPVRHNWpiaTV2Y21j<br>ssr://MTk0LjE0Ny4zNC43OTozNjMyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnT1hRLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VncmZ3JvdXA9VEc1amJpNXZjbWM<br>ssr://NDYuMTcuNDYuNTU6MzYzMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09YUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdldBJmdyb3VwPVRHNWpiaTV2Y21j<br></code></pre></td></tr></table></figure><h1 id="V2Ray"><a href="#V2Ray" class="headerlink" title="V2Ray"></a>V2Ray</h1><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs http">vmess://eyJhZGQiOiJ2MnVzMDEuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDIuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMiIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJhZGQiOiJ2MnVzMDMuaXN4YS50b3AiLCJob3N0IjoiIiwiaWQiOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6ImlzeC55dC0wMyIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQo=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiODgyODI2MTAtMWYwYi00ODcwLWY4MTctYTdhMzZiNDRmZjIyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIn0=<br>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjgwIiwiaWQiOiI0ZmY0NzQ4NC0wZjcxLTIxYmUtYzQ4YS01MDY3YjBmZGFjMmYiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIvd3MiLCJ0bHMiOiJub25lIn0=<br></code></pre></td></tr></table></figure><blockquote><p>最后更新时间：2021.08.27</p></blockquote><h3 id="更新地址"><a href="#更新地址" class="headerlink" title="更新地址"></a>更新地址</h3><ul><li>YouTube：<a href="https://www.youtube.com/watch?v=ANgdDISlMcw">https://www.youtube.com/watch?v=ANgdDISlMcw</a></li><li>Github：<a href="https://github.com/umelabs/node.umelabs.dev">https://github.com/umelabs/node.umelabs.dev</a></li></ul><h3 id="订阅地址"><a href="#订阅地址" class="headerlink" title="订阅地址"></a>订阅地址</h3><ul><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md</a></p></li><li><p><a href="https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md">https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md</a></p></li></ul><h2 id="节点来源"><a href="#节点来源" class="headerlink" title="节点来源"></a>节点来源</h2><ul><li><p><a href="https://lncn.org/">https://lncn.org/</a></p></li><li><p><a href="https://my.ishadowx.biz/">https://my.ishadowx.biz/</a></p></li><li><p><a href="https://free-ss.site/">https://free-ss.site/</a></p></li></ul><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><p>👏欢迎大家订阅YouTube频道：<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3><p>💥了解系列视频：<a href="https://bit.ly/2VsR4Gi">https://bit.ly/2VsR4Gi</a></p><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;title: 2021.08.26&lt;br&gt;date: 2021-08-26 11:38:40&lt;br&gt;tags:&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;⚠️⚠️⚠️ 使用免费节点有风险，请注意保护隐私‼️&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;记得关注YouTube频道获得更多消息哦！🔔&lt;a href=&quot;https://bit.ly/2RABVBt&quot;&gt;https://bit.ly/2RABVBt&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/UmeLabs&quot;&gt;Twitter&lt;/a&gt; 欢迎关注推特账号&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>2021.08.26</title>
@@ -47,7 +76,7 @@
     <link href="https://node.umelabs.dev/2021/cksr2fag40000yupihnw72a97/"/>
     <id>https://node.umelabs.dev/2021/cksr2fag40000yupihnw72a97/</id>
     <published>2021-08-25T05:35:56.000Z</published>
-    <updated>2021-08-26T03:37:25.445Z</updated>
+    <updated>2021-08-26T15:13:04.797Z</updated>
     
     <content type="html"><![CDATA[<p>之前做了一个<a href="https://www.youtube.com/watch?v=8H8886hVyNE">视频</a>并且写了几篇关于WireGuard安装的<a href="https://node.umelabs.dev/tags/WireGuard/">文章</a>，但是一连串的命令操作对于一些人来说可能有点困难。所以做了<a href="https://www.youtube.com/watch?v=FchhqFqnkos">视频</a>关于如何用脚本在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>安装WireGuard，这篇文章是对视频的补充。</p><span id="more"></span><h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><p>在开始安装之前，可以先下载好<a href="https://www.wireguard.com/install/">WireGuard客户端</a>，如果是电脑使用就下载电脑端客户端，手机就下载手机端的app。需要注意的是，如果你是用手机的话，建议扫码来完成客户端配置，因为手动输入还是有点麻烦的。然后从服务器下载二维码的话，建议使用<a href="https://cyberduck.io">Cyberduck</a>，从相应的应用商店下载。</p><h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><ol><li><p>在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>创建好服务器，记录下ip地址和密码</p></li><li><p>通过终端命令ssh连接到服务器<br><code>ssh root@ip</code><br>@后面输入自己之前创建的服务器的ip地址，应该会让你输入密码，密码不会显示，你可以直接复制粘贴</p></li><li><p>运行脚本</p></li></ol><ul><li>下载脚本<br><code>wget --no-check-certificate -O /opt/wireguard.sh https://raw.githubusercontent.com/teddysun/across/master/wireguard.shchmod 755 /opt/wireguard.sh</code></li><li>从代码编译安装<br><code>/opt/wireguard.sh -s</code><br>或者</li><li>从repository直接安装<br><code>/opt/wireguard.sh -r</code></li></ul><ol start="4"><li>安装完成之后如果是电脑通过命令来得到客户端配置，如果是手机的话需要扫描二维码<br><code>WireGuard VPN Server installation completedWireGuard VPN default client file is below:/etc/wireguard/wg0_clientWireGuard VPN default client QR Code is below:/etc/wireguard/wg0_client.pngDownload and scan this QR Code with your phoneWelcome to visit: https://teddysun.com/554.htmlEnjoy it</code></li></ol><ul><li>配置电脑端的话，输出相应配置复制到客户端就可以了<br><code>cat /etc/wireguard/wg0_client</code></li><li>手机端的话通过Cyberduck预览或者下载图片扫描二维码就可以了，下面👇的是二维码图片地址<br><code>/etc/wireguard/wg0_client.png</code></li></ul><h1 id="其他操作"><a href="#其他操作" class="headerlink" title="其他操作"></a>其他操作</h1><ol><li>添加客户端配置<br><code>/opt/wireguard.sh -a</code></li></ol><ol start="2"><li><p>删除客户端配置<br><code>/opt/wireguard.sh -d</code></p></li><li><p>列出所有用户<br><code>/opt/wireguard.sh -l</code></p></li><li><p>编译升级到当前最新版本<br><code>/opt/wireguard.sh -u</code></p></li><li><p>卸载<br><code>/opt/wireguard.sh -n</code></p></li></ol><h1 id="一些问题以及解决办法"><a href="#一些问题以及解决办法" class="headerlink" title="一些问题以及解决办法"></a>一些问题以及解决办法</h1><ul><li>在创建服务器时建议选择fedora作为操作系统，因为经过测试发现，在fedora运行脚本时成功率比较高。</li><li>然后每个月的价格是根据国家和地区有所区别，根据自己的喜好和需求来选择。</li><li>如果你运行脚本失败，可以多尝试几次。因为这里是在<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>进行操作的，其他的服务器可能有所区别。</li><li>如果你是Windows操作系统，那么你可以选择自己进行SSH连接的工具比如说Putty，不过推荐使用<a href="https://hyper.is">Hyper</a>，这是一个开源软件，而且支持多平台，重要的是很好看。</li></ul><h1 id="一些链接"><a href="#一些链接" class="headerlink" title="一些链接"></a>一些链接</h1><ol><li><a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>使用这个链接注册你可以获得免费100美金使用，我也可以获得一定返利。</li><li><a href="https://www.wireguard.com/install/">WireGuard</a>客户端下载页面</li><li><a href="https://teddysun.com/554.html">秋水逸冰</a>关于这个脚本的说明和使用方法</li><li><a href="https://raw.githubusercontent.com/teddysun/across/master/wireguard.sh">脚本地址</a></li><li><a href="https://cyberduck.io">Cyberduck</a>下载页面</li></ol>]]></content>
     
@@ -66,6 +95,8 @@
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -178,7 +209,7 @@
     <link href="https://node.umelabs.dev/2021/ckslf87ys0000jhpifvuxcwpa/"/>
     <id>https://node.umelabs.dev/2021/ckslf87ys0000jhpifvuxcwpa/</id>
     <published>2021-08-21T06:44:26.000Z</published>
-    <updated>2021-08-21T06:48:22.183Z</updated>
+    <updated>2021-08-26T15:14:52.615Z</updated>
     
     <content type="html"><![CDATA[<p>其实之前就有想过写这个内容，一直搁置没有写。因为感觉看电视的人很少，更不用说电视直播了，广告无法跳过。而且看电视一般是为了看电视剧或者电影要不然就是新闻，但是现在这些都有非常好的替代服务。<span id="more"></span></p><h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>因为想在电视上，手机上看一些电视直播，所以就查找了很多资料，这里分享出来给有需要的人。也做了一个<a href="https://www.youtube.com/watch?v=eBxLwl9rgSc">YouTube视频</a>教大家如何观看电视直播的办法。视频里只介绍了免费观看电视直播的方法，这里也会说一些付费的电视直播服务。</p><h1 id="电视直播软件-应用-服务"><a href="#电视直播软件-应用-服务" class="headerlink" title="电视直播软件/应用/服务"></a>电视直播软件/应用/服务</h1><p>使用软件和电视直播源的办法可以有更多定制，因为可以选择直播源也就是可以选择自己想看的电视台或者内容。使用<a href="https://www.pluto.tv/live-tv/pluto-tv-action">Pluto TV</a>和<a href="https://tv.youtube.com/">YouTube TV</a> 这样的软件或者服务的话，就不需要自己去找直播源，但是可控性比较差，还有就是一般都需要付费。</p><h2 id="免费"><a href="#免费" class="headerlink" title="免费"></a>免费</h2><ol><li><a href="https://www.videolan.org/vlc/download-macosx.html">VLC</a> + <a href="https://github.com/iptv-org/iptv">电视直播源</a> 免费 不需要注册 但是需要结合电视直播源来使用。VLC支持多个平台（Mac Windows Linux），VLC有中文。</li><li><a href="https://www.pluto.tv/live-tv/pluto-tv-action">Pluto TV</a> 免费不需要注册，需要懂英文</li><li><a href="https://www.peacocktv.com">Peacock</a> 免费需要注册，需要懂英文</li><li><a href="https://www.plex.tv/watch-free-tv/">PLEX</a> 免费不需要注册，需要懂英文</li></ol><h2 id="付费"><a href="#付费" class="headerlink" title="付费"></a>付费</h2><ol><li><a href="https://tv.youtube.com/">YouTube TV</a> 64.99 美元/月 85个以上美国的电视频道 支持多个平台</li><li><a href="https://www.hulu.com/live-tv">hulu</a> 64.99 美元/月 75个以上美国的电视频道 支持多个平台</li><li><a href="https://www.sling.com">sling</a> 35 美元/月 32个以上美国的电视频道 支持多个平台</li><li><a href="https://www.philo.com/">philo</a> 25 美元/月 60个以上美国的电视频道 支持多个平台</li></ol><h1 id="更多"><a href="#更多" class="headerlink" title="更多"></a>更多</h1><p>如果是使用电视直播源的办法的话，这里有一个<a href="https://github.com/iptv-org/iptv">开源的项目</a>可以看一下，而且这个项目还有一个<a href="https://github.com/iptv-org/awesome-iptv">列表</a>告诉你有哪些软件或者应用可以使用这个直播源。然后不知道大家有没有兴趣一起建立一个repo更新电视直播源，比如说一些电影频道直播源更新。</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>总体来说直播软件联合直播源是最好的办法，关于付费的其实支持的频道不多而且价格偏高，不是很划算。而且这里提到的服务基本只支持美国的频道，关于其他国家的服务并没有了解过，感兴趣的可以自行了解，也可以分享给我。</p><h1 id="参考素材"><a href="#参考素材" class="headerlink" title="参考素材"></a>参考素材</h1><ol><li><a href="https://blog.shuziyimin.org/34">https://blog.shuziyimin.org/34</a></li></ol>]]></content>
     
@@ -199,6 +230,8 @@
       <category term="电视直播软件" scheme="https://node.umelabs.dev/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/"/>
     
       <category term="电视直播app" scheme="https://node.umelabs.dev/tags/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%ADapp/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -1383,7 +1416,7 @@
     <link href="https://node.umelabs.dev/2021/ckqj5vv8w0000tupi9g144nkt/"/>
     <id>https://node.umelabs.dev/2021/ckqj5vv8w0000tupi9g144nkt/</id>
     <published>2021-06-30T07:25:24.000Z</published>
-    <updated>2021-07-01T05:35:31.526Z</updated>
+    <updated>2021-08-26T15:16:05.758Z</updated>
     
     <content type="html"><![CDATA[<p>之前出过一期<a href="https://www.youtube.com/watch?v=7SjlQsTgYxs">视频</a>介绍手机上的VPN应用或者说VPN app，然后这篇文章相当于一个总结。会列出一些之前视频里提过的app，也会新增一些最新发现的。</p><span id="more"></span><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一般来说，自己服务器是最好的选择，可以选择<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>来自建服务器，然后搭配<a href="https://getoutline.org/">Outline VPN</a>更加的方便。而且，使用了一段时间感觉还是蛮稳定的，在某些特殊时期也很稳健。但是，有的人可能只是偶尔需要使用翻墙，所以自建服务器性价比不是很高。当然，如果你是软件工程师，可以最大化的利用服务器。比如说，在搭建了翻墙服务器后，可以做一些需要后台支持的Web Apps，搭建一个自己的博客等等。</p><h1 id="应用-app-推荐"><a href="#应用-app-推荐" class="headerlink" title="应用/app 推荐"></a>应用/app 推荐</h1><h2 id="浏览器自带"><a href="#浏览器自带" class="headerlink" title="浏览器自带"></a>浏览器自带</h2><p>一些浏览器自带VPN，而且免费，不过有一个缺点就是需要一直在浏览器应用里使用，如果跳转到其他应用会自动断开，当然付费的话一般没这个问题。</p><ol><li><a href="https://alohabrowser.com">Aloha 浏览器</a></li><li><a href="https://cakebrowser.com">Cake 浏览器</a></li></ol><h2 id="免费-VPN-应用"><a href="#免费-VPN-应用" class="headerlink" title="免费 VPN 应用"></a>免费 VPN 应用</h2><p>下面的应用基本都支持全平台，有一些应用最新版本增加了广告，可以自行选择删除或者安装相应的app。</p><ol><li><a href="https://1.1.1.1">1.1.1.1</a> 这个是CLOUDFLARE推出的一款应用WARP模式相当于VPN，不过需要注意的是数据没有加密</li><li><a href="https://www.betternet.co">Betternet</a> 最新的版本好像流量有限了，需要看广告来获得更多流量。</li><li><a href="https://www.hotspotshield.com/">HotspotShield</a> 缺点是有广告。</li><li><a href="https://www.surfeasy.com/us/en/">SurfEasy VPN</a> 很久之前就注意到了这个app，不过缺点是流量有限，最多只能应急用一下。</li><li><a href="https://www.speedtest.net/apps/vpn">Speedtest</a> 这是一款很有名的app，是用来测试网速的工具。后来的版本添加了免费VPN。</li><li><a href="https://protonvpn.com/">Proton VPN</a> 免费，不限流量。缺点是需要注册才能使用。</li><li><a href="https://windscribe.com/">Windscribe</a> 每个月10GB免费流量</li></ol><h2 id="自建服务器-VPN-应用"><a href="#自建服务器-VPN-应用" class="headerlink" title="自建服务器 VPN 应用"></a>自建服务器 VPN 应用</h2><ol><li><a href="https://getoutline.org/">Outline VPN</a> 需要搭配服务器使用，支持多个平台，免费。</li><li><a href="https://www.wireguard.com/install/">WireGuard</a> WireGuard支持多个平台，只是搭建起来没有Outline VPN方便，不过也有类似一件脚本方便快速搭建。</li><li><a href="https://www.nssurge.com/">Surge</a> 这个其实主要的作用并不是用来翻墙的，所以支持的协议没那么多。然后付费版本比较贵。</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>这类免费的翻墙app或者说VPN app作为日常使用的话不推荐，如果只是应急或者对于翻墙需求不是很大，那可以选择这里推荐的app。最好的方法还是自己搭建服务器，然后选择自己服务器 VPN app那里的推荐。自己服务器那里的app是需要自己搭建服务器来使用的，比如说你要用SS(Shadowsocks)，那么你可以在服务器上搭建SS，然后把配置文件填写到app里面，然后连接才可以使用。<a href="https://getoutline.org/">Outline VPN</a>之前就出过相关的<a href="https://www.youtube.com/watch?v=2NCAWJOPggA">视频</a>，可以观看教学来搭建。或者根据这个<a href="https://www.youtube.com/watch?v=8H8886hVyNE">WireGuard视频</a>来搭建WireGuard服务器。服务器推荐使用<a href="https://www.vultr.com/?ref=8658584-6G">Vultr</a>来搭建，使用文章里的链接注册可以获得免费的100美金，而且可以用支付宝来付款。当然你也可以选择其他你喜欢的服务。<br>如果你有推荐的应用，欢迎到<a href="https://github.com/UmeLabs/node.umelabs.dev/issues">这里</a>评论。</p>]]></content>
     
@@ -1412,6 +1445,8 @@
       <category term="苹果手机翻墙" scheme="https://node.umelabs.dev/tags/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99/"/>
     
       <category term="科学上网" scheme="https://node.umelabs.dev/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -1602,7 +1637,7 @@
     <link href="https://node.umelabs.dev/2021/ckq90ubop0000tipi215j2z3v/"/>
     <id>https://node.umelabs.dev/2021/ckq90ubop0000tipi215j2z3v/</id>
     <published>2021-06-23T05:08:23.000Z</published>
-    <updated>2021-06-23T05:12:55.412Z</updated>
+    <updated>2021-08-26T15:16:27.470Z</updated>
     
     <content type="html"><![CDATA[<p>之前经历过几次账户被盗，也经历过几次使用的服务账户信息泄漏。账户被盗是可控的，而账户信息泄漏一般是不可控的。因为账户信息被动泄漏一般是使用的产品或服务的数据库被黑客攻破，这样一般自己是无法控制的。所以，如何保护自己的账户防止被盗是十分重要的，以及如何减小账户信息泄漏的风险是这一篇文章所要关注的。<span id="more"></span></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>一般一个人的账户有几个部分组成：邮箱、用户名、密码。如果是其他类别的账户可能还包含更多隐私信息，比如说生日、真实姓名、地址、电话号码、身份证号码、脸部照片、银行卡信息等等。<br>账户里如果有金钱等财产，一旦账户被盗就会出现很大的损失。一般人在设置密码或者用户名时喜欢在里面包含自己的私人信息，然后密码设置的非常简单，诸如12345678之类的简单数字。<br>密码设置的过于简单或者一个密码用于多个账户，这样都会非常容易造成账户被盗。还有一个会造成账户被盗与密码有关的事，使用一个密码很久的时间。</p><h1 id="防止账户被盗可以采取的措施"><a href="#防止账户被盗可以采取的措施" class="headerlink" title="防止账户被盗可以采取的措施"></a>防止账户被盗可以采取的措施</h1><h2 id="和密码有关的措施"><a href="#和密码有关的措施" class="headerlink" title="和密码有关的措施"></a>和密码有关的措施</h2><p>一般来说账户被破解，首先是因为密码的问题，密码太过简单很容易被破解。设定一个复杂的密码是最主要的办法，可以使用LastPass提供的这个<a href="https://www.lastpass.com/password-generator">工具</a>来生成密码。你可以直接下载我下面提到一些密码管理器来生成密码。下面是一些可行的措施。</p><ol><li>设置复杂的密码。</li><li>不同的账户设置不同的密码。</li><li>定期更换密码。至少六个月更换一次密码。</li><li>监测密码是否泄漏，可以使用<a href="https://haveibeenpwned.com">haveibeenpwned</a>和<a href="https://monitor.firefox.com">Firefox Monitor</a>来监测</li><li>使用密码管理器，这样可以随机生成复杂不同的密码，而且一般密码管理也自带两步验证。可以使用1Password，谷歌浏览器，safari浏览器，或者火狐浏览器。<h3 id="提到的app-两个版本下载链接"><a href="#提到的app-两个版本下载链接" class="headerlink" title="提到的app 两个版本下载链接"></a>提到的app 两个版本下载链接</h3>除了密码管理器，上面提到了浏览器，之所以说浏览器因为浏览器一般支持同步功能，比如说谷歌浏览器就支持账户和密码的同步，而且支持生成密码。</li></ol><ul><li>1Password - Password Manager <a href="https://apps.apple.com/us/app/1password-password-manager/id568903335">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.agilebits.onepassword">Android</a></li><li>Bitwarden Password Manager <a href="https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.x8bit.bitwarden">Android</a></li><li>Firefox Lockwise <a href="https://apps.apple.com/us/app/firefox-lockwise/id1314000270">iOS</a> <a href="https://play.google.com/store/apps/details?id=mozilla.lockbox&referrer=adjust_reftag%3DcZHTioRzzsVUc%26utm_source%3DProduct%2BMarketing%26utm_campaign%3Dwww.mozilla.org%26utm_content%3Dlockwise-page">Android</a></li><li>LastPass Password Manager <a href="https://apps.apple.com/us/app/lastpass-password-manager/id324613447">iOS</a> <a href="https://play.google.com/store/apps/details?id=com.lastpass.lpandroid">Android</a></li></ul><h2 id="和账户有关的措施"><a href="#和账户有关的措施" class="headerlink" title="和账户有关的措施"></a>和账户有关的措施</h2><p>一个账户除了密码以外，还有可能有用户和电子邮箱或者更多和身份识别有关的设定。那么针对这些采取一些措施也可以保证账户安全。设置一个不一样的用户名也是一个好办法，LastPass就提供了这样一个<a href="https://www.lastpass.com/username-generator">工具</a></p><ol><li>设置两步验证，可以使用谷歌验证器或者微软的两步验证app，LastPass Authenticator。需要注意的是最好不要用手机号码来作为验证的办法，这样很容易泄漏自己的信息，或者变相的实名认证。</li></ol><ul><li>谷歌验证器 <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iOS版</a> 和 <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US">Android版</a></li><li>微软验证器 <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458">iOS版</a> 和 <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator">Android版本</a></li><li>LastPass Authenticator <a href="https://apps.apple.com/us/app/lastpass-authenticator/id1079110004">iOS</a>版 和 <a href="https://play.google.com/store/apps/details?id=com.lastpass.authenticator">Android</a>版</li></ul><ol start="2"><li>注册的邮箱也开启两步验证。因为如果你的邮箱被盗，那里面的数据也会被泄漏，那么你与其关联的账户信息很容易被盗。</li><li>使用随机的用户名。这个好像很少人这么做，一般大概是一个用户名用于多个账户？比如Twitter和电子邮箱账户名一样。</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>其实整篇文章说了这么多，最主要的是开启二次验证增加安全性，一般来说开启了二次验证，即使密码和用户名被知道也无法登陆你的账户。关于二次验证怎么用，之前也做过相关的<a href="https://www.youtube.com/watch?v=lpEbVNh4USI">视频</a>。然后是使用密码管理器，来生成复杂安全的密码，并且是每一个账户不同密码。其中<a href="https://www.mozilla.org/en-US/firefox/lockwise/">Firefox Lockwise</a> 和 <a href="https://bitwarden.com">Bitwarden</a>是开源的，开源软件一般可以作为首选。Bitwarden如果你不想使用他们的服务器，可以自己搭建。说实话，任何存储在云端的文件或者什么都不是安全的，只有存储在本地的才是最可靠安全的。当然如果你说存储在本地的介质遗失了，那么就没有讨论意义了。还有一个需要注意的是，如果你账户注册邮箱没有开启二次验证，那同样会导致关联账户不安全。<br>欢迎大家通过<a href="https://github.com/UmeLabs/node.umelabs.dev/issues">GitHub issue</a>评论。</p>]]></content>
     
@@ -1614,21 +1649,19 @@
     
     
     
-      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
-    
       <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
     
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
     
-      <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
-    
       <category term="隐私" scheme="https://node.umelabs.dev/tags/%E9%9A%90%E7%A7%81/"/>
     
       <category term="安全" scheme="https://node.umelabs.dev/tags/%E5%AE%89%E5%85%A8/"/>
     
       <category term="账户安全" scheme="https://node.umelabs.dev/tags/%E8%B4%A6%E6%88%B7%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -2217,7 +2250,7 @@
     <link href="https://node.umelabs.dev/2021/ckpe77vbi0000eipi9j8z050d/"/>
     <id>https://node.umelabs.dev/2021/ckpe77vbi0000eipi9j8z050d/</id>
     <published>2021-06-01T08:55:28.000Z</published>
-    <updated>2021-06-02T14:16:53.488Z</updated>
+    <updated>2021-08-26T15:15:45.442Z</updated>
     
     <content type="html"><![CDATA[<p>关于浏览器的选择，在YouTube频道也有做视频，有关于浏览器<a href="https://www.youtube.com/watch?v=XeDcykHc7As">配置</a>和<a href="https://www.youtube.com/watch?v=xWDvHslCs_k">安全</a>方面的，还有<a href="https://www.youtube.com/watch?v=Dag9VTbQdj0">Tor</a>浏览器有关的视频。但是，通过谷歌分析发现还有一些人使用并不是很安全的浏览器。浏览器的选择或者说软件的选择上有几个需要注意的点，下面我们来看看。<span id="more"></span></p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在开始之前可以看看这篇关于<a href="https://www.forbes.com/sites/thomasbrewster/2021/06/01/exclusive-alibabas-huge-browser-business-is-recording-millions-of-android-and-iphone-users-private-web-habits/?sh=6fd2252261f2">UC浏览器</a>安全问题的文章。</p><h1 id="背景和题外话"><a href="#背景和题外话" class="headerlink" title="背景和题外话"></a>背景和题外话</h1><h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>为什么想要写这样一篇文章呢？主要是因为看到谷歌分析的数据而想到要写这样一篇文章。因为一些人使用的浏览器让人感到很忧虑。</p><h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>在说浏览器之前，这里说一下选择软件或者服务的一些需要注意的事项。</p><ol><li>尽量选择非商业公司的软件或者服务</li><li>优先选择开源的软件或者服务</li><li>查看他们是否收集私人信息，如个人电话号码，邮箱，出生年月等等</li><li>查看他们是否把你的信息共享给其他公司或者机构<br>其中开源是最重要的，因为开源大家可以看到源代码，知道他们做了什么，当然有的公司可能只开源了前端代码而没有开源后端代码。</li></ol><h1 id="浏览器选择"><a href="#浏览器选择" class="headerlink" title="浏览器选择"></a>浏览器选择</h1><h2 id="桌面端或者说PC-Desktop版"><a href="#桌面端或者说PC-Desktop版" class="headerlink" title="桌面端或者说PC/Desktop版"></a>桌面端或者说PC/Desktop版</h2><p>因为前面的题外话，我们可以直接排除一些所谓“国产”浏览器，包括腾讯，搜狗，阿里巴巴等商业公司的浏览器产品。<br>以下是一个推荐排行：</p><ol><li><a href="https://www.torproject.org">Tor</a>浏览器或者叫洋葱路由</li><li><a href="https://www.mozilla.org/en-US/firefox/new/">FireFox</a>浏览器又叫火狐浏览器（⚠️注意不要下载中国特供版）</li><li><a href="https://www.chromium.org/getting-involved/download-chromium">Chromium</a> (Chrome浏览器或谷歌浏览器开源版本)</li><li><a href="https://brave.com">Brave</a> 浏览器</li><li><a href="https://www.opera.com">Opera</a> 浏览器 (桌面版自带VPN，注意不要下载中国特供版)</li><li><a href="https://www.apple.com/safari/">Safari</a> (仅支持苹果设备，也有Windows版本，不过停止更新了)</li><li><a href="https://www.microsoft.com/en-us/edge">Edge</a> 浏览器（这里说的是基于Chromium开发的版本）</li><li><a href="https://www.google.com/chrome/">Chrome</a>浏览器或谷歌浏览器（说实话不是很喜欢，但的确是个好的浏览器）</li></ol><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>选择开源的浏览器是最好的，优先推荐Tor，再然后是FireFox。如果你有选择困难症，可以看看<a href="https://www.mozilla.org/zh-CN/firefox/browsers/compare/">FireFox</a>写的这篇文章对比。</p>]]></content>
     
@@ -2228,10 +2261,6 @@
     </summary>
     
     
-    
-      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
-    
-      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
     
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
     
@@ -2244,6 +2273,8 @@
       <category term="隐私" scheme="https://node.umelabs.dev/tags/%E9%9A%90%E7%A7%81/"/>
     
       <category term="安全" scheme="https://node.umelabs.dev/tags/%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -2590,7 +2621,7 @@
     <link href="https://node.umelabs.dev/2021/ckowl44tp0001gjpiav743hef/"/>
     <id>https://node.umelabs.dev/2021/ckowl44tp0001gjpiav743hef/</id>
     <published>2021-05-19T13:47:25.000Z</published>
-    <updated>2021-05-20T07:39:41.978Z</updated>
+    <updated>2021-08-26T15:12:57.841Z</updated>
     
     <content type="html"><![CDATA[<p>Tor浏览器或者说洋葱路由在使用的时候也有一些需要注意的事项，有一些小技巧可以记录下来。如果不了解Tor是什么可以去看这个<a href="https://www.youtube.com/watch?v=Dag9VTbQdj0">视频</a>。<span id="more"></span></p><h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>排除某些蜜罐节点，可以使自己更加安全的使用Tor，因为如果是一些审查比较严重的国家，这些节点来源可能泄漏自己的隐私。</p><h1 id="办法描述"><a href="#办法描述" class="headerlink" title="办法描述"></a>办法描述</h1><p>使用Tor最好是虚拟机 + VPN + Tor 这是最安全的，当然很多人肯定觉得麻烦，只有 VPN + Tor 或者只有Tor。这种情况下如何最小保护自己呢？</p><ol><li>所有网页都用HTTPS打开</li><li>排除一些国家或者地区的节点</li><li>指定国家或者地区的节点</li></ol><h2 id="关于第一点"><a href="#关于第一点" class="headerlink" title="关于第一点"></a>关于第一点</h2><p>如果网页数据是加密的话被破解可能还是很小的，如果是HTTP那么你所有的内容都会被ISP看到，包括输入的密码和邮箱以及你发表的言论如推特等。<br>所以最好强制所有网页以HTTPS打开。</p><h2 id="关于第二点"><a href="#关于第二点" class="headerlink" title="关于第二点"></a>关于第二点</h2><p>因为可能存在某些蜜罐节点钓鱼执法，所以排除这些国家或者地区的节点来说是最安全的。</p><h2 id="关于第三点"><a href="#关于第三点" class="headerlink" title="关于第三点"></a>关于第三点</h2><p>指定国家或者地区的办法是最安全的，因为你可能不知道哪些国家或者地区有蜜罐节点。</p><h1 id="操作"><a href="#操作" class="headerlink" title="操作"></a>操作</h1><ul><li>首先推荐安装 HTTPS Everywhere 和 NoScript扩展</li><li>修改<strong>torrc-defaults</strong>文件<h2 id="排除节点"><a href="#排除节点" class="headerlink" title="排除节点"></a>排除节点</h2><code>ExcludeNodes &#123;cn&#125;,&#123;hk&#125;,&#123;mo&#125;,&#123;kp&#125;,&#123;ir&#125;,&#123;sy&#125;,&#123;pk&#125;,&#123;cu&#125;,&#123;vn&#125;,&#123;ru&#125;,&#123;by&#125;</code><br><code>StrictNodes 1</code></li></ul><h2 id="严格限制出入节点国家"><a href="#严格限制出入节点国家" class="headerlink" title="严格限制出入节点国家"></a>严格限制出入节点国家</h2><blockquote><p>这里是挪威<br><code>EntryNodes &#123;no&#125;ExitNodes &#123;no&#125;</code></p></blockquote><blockquote><p>可以参考这个<a href="https://program-think.blogspot.com/2020/08/Tor-Triple-Proxy.html">链接</a></p></blockquote>]]></content>
     
@@ -2602,8 +2633,6 @@
     
     
     
-      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
-    
       <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
     
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
@@ -2611,6 +2640,8 @@
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="Tor" scheme="https://node.umelabs.dev/tags/Tor/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -3149,7 +3180,7 @@
     <link href="https://node.umelabs.dev/2021/ckos3k5vi00a3x7piflfz3n5t/"/>
     <id>https://node.umelabs.dev/2021/ckos3k5vi00a3x7piflfz3n5t/</id>
     <published>2021-04-28T06:27:53.000Z</published>
-    <updated>2021-05-19T13:49:31.539Z</updated>
+    <updated>2021-08-26T15:14:39.371Z</updated>
     
     <content type="html"><![CDATA[<blockquote style="color:red;font-size:20px;">没人注意到抽奖的感觉，这个抽奖所有人都可以参加的，只要转发那个文章或者那个我pin的推特都可以参加抽奖。如果没有iOS设备的话也可以参与，我可以换成亚马逊或者其他购物平台的购物卡，或者你们可以建议抽奖的物品。现在我把时间后延到2021.05.05</blockquote>我发现一个奇怪的问题，就是这个[Node](https://github.com/UmeLabs/node.umelabs.dev)项目有一些人Fork了。<span id="more"></span><h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>因为这个项目的已经有一段时间了，然后我就去看了看一些数据，发现有一些人Fork了这个项目。这让我感到有些困惑，为什么呢？<br>一般来说只有你需要备份这个项目防止原项目被删除才需要Fork，或者你会进行二次开发才会使用这个功能，大多数情况你只需要Star就好了。<br>之前有出过一个视频讲解使用<a href="https://www.youtube.com/watch?v=Hk3SLmm1pJA">GitHub备份东西</a>的视频，难道是因为那个视频误导了大家吗？</p><h1 id="然后抽奖"><a href="#然后抽奖" class="headerlink" title="然后抽奖"></a>然后抽奖</h1><p>已经Fork这个项目的人可以直接删除这个项目然后Star这个项目。<br>抽奖：</p><ol><li>删除Fork</li><li><a href="https://github.com/UmeLabs/node.umelabs.dev">Star</a>这个项目</li><li>关注<a href="https://twitter.com/UmeLabs">Twitter</a></li><li>等待被选中</li><li>抽奖人数： 3 人</li><li>奖品： 美区App Store翻墙app兑换码</li><li>截止时间： <del>2021年4月30号</del>   2021年5月5号</li><li>获奖名单会在<a href="https://twitter.com/UmeLabs">Twitter</a>和这个网站公开（如果不想被公开请推特私信我）<h1 id="一些说明"><a href="#一些说明" class="headerlink" title="一些说明"></a>一些说明</h1></li></ol><ul><li>之所以需要关注推特是因为我需要私信把兑换码发送给你</li><li>然后之所以提这个是因为后面会写一个文章并且做一个关于GitHub和Git有关的视频</li></ul>]]></content>
     
@@ -3162,13 +3193,7 @@
     
     
     
-      <category term="WireGuard" scheme="https://node.umelabs.dev/tags/WireGuard/"/>
-    
-      <category term="VPN" scheme="https://node.umelabs.dev/tags/VPN/"/>
-    
-      <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
-    
-      <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -10965,7 +10990,7 @@
     <link href="https://node.umelabs.dev/2020/ckos3k5u3009yx7pi3gshh45p/"/>
     <id>https://node.umelabs.dev/2020/ckos3k5u3009yx7pi3gshh45p/</id>
     <published>2020-07-04T09:24:43.000Z</published>
-    <updated>2021-04-16T11:12:12.730Z</updated>
+    <updated>2021-08-26T15:13:10.247Z</updated>
     
     <content type="html"><![CDATA[<p>因为多用其实有几点需要注意，大家可能会不太明白，所以就有了这篇文章。只要你注意了几个重要的点，就会成功设置多用户或者装置了。<span id="more"></span></p><h2 id="多用户"><a href="#多用户" class="headerlink" title="多用户"></a>多用户</h2><p>生成密钥，这里的mac2-privatekey和mac2-publickey需要和你之前设置的不一样，很重要！！！</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ wg genkey | tee mac2-privatekey | wg pubkey &gt; mac2-publickey<br></code></pre></td></tr></table></figure><p>打印连接的客户端，这里的address就是publickey就是你自己新生成的key的名称</p><p>然后AllowedIPs需要和之前的设置的不一样，然后和下面的client里面的address是一样的</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">[Peer]</span><br><span class="hljs-string">  PublicKey = <span class="hljs-subst">$(cat mac2-publickey)</span></span><br><span class="hljs-string">  AllowedIPs = 10.0.0.4/32&quot;</span> &gt;&gt; wg0.conf<br></code></pre></td></tr></table></figure><p>生成新的客户端配置</p><p>这里的address和上面的allowedips一样，区别是一个后面为32一个是24</p><p>这里的privatekey就是你之前生成的</p><p>然后publickey是最开始生成的服务器的publickey</p><p>endpoint要填写你自己的服务器ip加上之前设置的listenport为端口</p><p>最后client的配置文件名字要和之前的不一样，比如说这里是client1</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">[Interface]</span><br><span class="hljs-string">  PrivateKey = <span class="hljs-subst">$(cat mac2-privatekey)</span></span><br><span class="hljs-string">  Address = 10.0.0.4/24</span><br><span class="hljs-string">  DNS = 1.1.1.1</span><br><span class="hljs-string">  MTU = 1360</span><br><span class="hljs-string"></span><br><span class="hljs-string">[Peer]</span><br><span class="hljs-string">  PublicKey = <span class="hljs-subst">$(cat server-publickey)</span></span><br><span class="hljs-string">  Endpoint = 你的ip:50814</span><br><span class="hljs-string">  AllowedIPs = 0.0.0.0/0</span><br><span class="hljs-string">  PersistentKeepalive = 25 &quot;</span> &gt; client1.conf<br></code></pre></td></tr></table></figure><h2 id="生成新的用户设置，最好停用再重启Stop-wg-and-then-restart"><a href="#生成新的用户设置，最好停用再重启Stop-wg-and-then-restart" class="headerlink" title="生成新的用户设置，最好停用再重启Stop wg and then restart"></a>生成新的用户设置，最好停用再重启Stop wg and then restart</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ wg-quick down wg0<br>$ wg-quick up wg0<br></code></pre></td></tr></table></figure><h1 id="导出配置"><a href="#导出配置" class="headerlink" title="导出配置"></a>导出配置</h1><ul><li><p>电脑端，注意这里的配置文件名字是client1</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ cat /etc/wireguard/client1.conf<br></code></pre></td></tr></table></figure></li><li><p>使用二维码注意名字是client1</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ qrencode -t ansiutf8 &lt; /etc/wireguard/client1.conf<br></code></pre></td></tr></table></figure></li></ul>]]></content>
     
@@ -10985,6 +11010,8 @@
     
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
     
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
+    
   </entry>
   
   <entry>
@@ -10992,7 +11019,7 @@
     <link href="https://node.umelabs.dev/2020/ckos3k5u4009zx7pi21d0fcfb/"/>
     <id>https://node.umelabs.dev/2020/ckos3k5u4009zx7pi21d0fcfb/</id>
     <published>2020-07-03T12:07:23.000Z</published>
-    <updated>2021-04-16T11:12:25.563Z</updated>
+    <updated>2021-08-26T15:13:34.976Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>⚠️几点需要注意的地方：</p><ol><li>设置防火墙规则</li><li>验证安装是否成</li><li>[Interface]里面address的地址和[peer]里面的AllowedIPs要不一样</li><li>客户端设置里面的EndPoint是你自己服务器的ip地址</li><li>可以参照YouTube视频来进行设置<a href="https://www.youtube.com/watch?v=8H8886hVyNE">https://www.youtube.com/watch?v=8H8886hVyNE</a></li><li>之所以出这个文章主要是视频不方便来弄这么多代码</li></ol></blockquote><span id="more"></span><p>⚠️建议大家转移在香港的节点，换成台湾或者日本、新加坡等地区和国家节点！</p><h2 id="创建防火墙规则Set-up-firewall-rules"><a href="#创建防火墙规则Set-up-firewall-rules" class="headerlink" title="创建防火墙规则Set up firewall rules"></a>创建防火墙规则Set up firewall rules</h2><p>出站和进站规则Egress and Ingress</p><p>name</p><p>Target tags in and out</p><p>source ip ranges 0.0.0.0/0</p><p>Protocols and ports</p><h1 id="创建服务器Set-up-the-server"><a href="#创建服务器Set-up-the-server" class="headerlink" title="创建服务器Set up the server"></a>创建服务器Set up the server</h1><p>把ip地址拷贝下来，一会儿需要用到</p><h2 id="连接到服务器-Connect-to-the-server"><a href="#连接到服务器-Connect-to-the-server" class="headerlink" title="连接到服务器 Connect to the server"></a>连接到服务器 Connect to the server</h2><h1 id="安装Install-WireGuard"><a href="#安装Install-WireGuard" class="headerlink" title="安装Install WireGuard"></a>安装Install WireGuard</h1><p>apt update to get the packages升级获得最新packages</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ sudo -i<br>$ apt-get update<br></code></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ sudo apt-get install wireguard<br></code></pre></td></tr></table></figure><h2 id="验证安装Verify-installation"><a href="#验证安装Verify-installation" class="headerlink" title="验证安装Verify installation"></a>验证安装Verify installation</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ modprobe wireguard &amp;&amp; lsmod | grep wireguard<br></code></pre></td></tr></table></figure><h1 id="生成Generate-Private-key-public-key"><a href="#生成Generate-Private-key-public-key" class="headerlink" title="生成Generate Private key, public key"></a>生成Generate Private key, public key</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ sudo -i <br>$ <span class="hljs-built_in">cd</span> /etc/wireguard<br>$ wg genkey | tee server-privatekey | wg pubkey &gt; server-publickey<br>$ wg genkey | tee client-privatekey | wg pubkey &gt; client-publickey<br></code></pre></td></tr></table></figure><h2 id="配置Configure-WireGuard-Server"><a href="#配置Configure-WireGuard-Server" class="headerlink" title="配置Configure WireGuard Server"></a>配置Configure WireGuard Server</h2><p>检查主网卡名称To get the network interface name, if you don’t know</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ ip a<br></code></pre></td></tr></table></figure><p>生成服务器配置文件Generate the wg0.conf file</p><p>replace the main network interface with your own,for gcp the default should be ens4</p><p>根据你自己的主网卡名称来设置，谷歌云默认应该是ens4</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">  [Interface]</span><br><span class="hljs-string">    PrivateKey = <span class="hljs-subst">$(cat server-privatekey)</span></span><br><span class="hljs-string">    Address = 10.0.0.1/24</span><br><span class="hljs-string">    PostUp   = iptables -A FORWARD -i wg0 -j ACCEPT; iptables -A FORWARD -o wg0 -j ACCEPT; iptables -t nat -A POSTROUTING -o ens4 -j MASQUERADE</span><br><span class="hljs-string">    PostDown = iptables -D FORWARD -i wg0 -j ACCEPT; iptables -D FORWARD -o wg0 -j ACCEPT; iptables -t nat -D POSTROUTING -o ens4 -j MASQUERADE</span><br><span class="hljs-string">    ListenPort = 50814</span><br><span class="hljs-string">    </span><br><span class="hljs-string">  [Peer]</span><br><span class="hljs-string">    PublicKey = <span class="hljs-subst">$(cat client-publickey)</span></span><br><span class="hljs-string">    AllowedIPs = 10.0.0.2/32 &quot;</span> &gt; wg0.conf<br></code></pre></td></tr></table></figure><h2 id="开启ipv4流量转发Enable-ipv4-forwarding"><a href="#开启ipv4流量转发Enable-ipv4-forwarding" class="headerlink" title="开启ipv4流量转发Enable ipv4 forwarding"></a>开启ipv4流量转发Enable ipv4 forwarding</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;net.ipv4.ip_forward = 1&quot;</span> &gt;&gt; /etc/sysctl.conf<br>$ sysctl -p<br></code></pre></td></tr></table></figure><h2 id="配置客户端-Configure-client"><a href="#配置客户端-Configure-client" class="headerlink" title="配置客户端 Configure client"></a>配置客户端 Configure client</h2><p>设置MTU，要不然可能会出现谷歌家网页无法打开Set MTU =1360 if not, won’t work for Google websites</p><p>Sorry, forgot to change the server ip你需要把这里的ip替换成自己的</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">[Interface]</span><br><span class="hljs-string">  PrivateKey = <span class="hljs-subst">$(cat client-privatekey)</span></span><br><span class="hljs-string">  Address = 10.0.0.2/24</span><br><span class="hljs-string">  MTU = 1360</span><br><span class="hljs-string">  DNS = 1.1.1.1</span><br><span class="hljs-string"></span><br><span class="hljs-string">[Peer]</span><br><span class="hljs-string">  PublicKey = <span class="hljs-subst">$(cat server-publickey)</span></span><br><span class="hljs-string">  Endpoint = 你自己的ip:50814</span><br><span class="hljs-string">  AllowedIPs = 0.0.0.0/0</span><br><span class="hljs-string">  PersistentKeepalive = 25 &quot;</span> &gt; client.conf<br></code></pre></td></tr></table></figure><h2 id="启动Start-WireGuard"><a href="#启动Start-WireGuard" class="headerlink" title="启动Start WireGuard"></a>启动Start WireGuard</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ wg-quick up wg0<br></code></pre></td></tr></table></figure><h2 id="导出配置Export-Client-settings"><a href="#导出配置Export-Client-settings" class="headerlink" title="导出配置Export Client settings"></a>导出配置Export Client settings</h2><ol><li><p>使用二维码，要不然手机设置非常麻烦Use QR code, this way is easier for phone</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ apt install qrencode -y<br>$ qrencode -t ansiutf8 &lt; /etc/wireguard/client.conf<br></code></pre></td></tr></table></figure></li><li><p>使用命令打印，适合电脑端Display the conf file using “cat”</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ cat /etc/wireguard/client.conf<br></code></pre></td></tr></table></figure></li></ol><h2 id="多用户Multi-users-you-can-do-this-before-start-wg"><a href="#多用户Multi-users-you-can-do-this-before-start-wg" class="headerlink" title="多用户Multi users, you can do this before start wg"></a>多用户Multi users, you can do this before start wg</h2><p>生成密钥Generate keys for the client,use different names</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ wg genkey | tee mac2-privatekey | wg pubkey &gt; mac2-publickey<br></code></pre></td></tr></table></figure><p>打印连接的客户端Echo new peer to the wg0.conf file</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">[Peer]</span><br><span class="hljs-string">  PublicKey = <span class="hljs-subst">$(cat mac2-publickey)</span></span><br><span class="hljs-string">  AllowedIPs = 10.0.0.4/32&quot;</span> &gt;&gt; wg0.conf<br></code></pre></td></tr></table></figure><p>生成新的客户端配置Echo new client file</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ <span class="hljs-built_in">echo</span> <span class="hljs-string">&quot;</span><br><span class="hljs-string">[Interface]</span><br><span class="hljs-string">  PrivateKey = <span class="hljs-subst">$(cat mac2-privatekey)</span></span><br><span class="hljs-string">  Address = 10.0.0.4/24</span><br><span class="hljs-string">  DNS = 1.1.1.1</span><br><span class="hljs-string">  MTU = 1360</span><br><span class="hljs-string"></span><br><span class="hljs-string">[Peer]</span><br><span class="hljs-string">  PublicKey = <span class="hljs-subst">$(cat server-publickey)</span></span><br><span class="hljs-string">  Endpoint = 34.96.179.209:50814</span><br><span class="hljs-string">  AllowedIPs = 0.0.0.0/0</span><br><span class="hljs-string">  PersistentKeepalive = 25 &quot;</span> &gt; client1.conf<br></code></pre></td></tr></table></figure><h2 id="生成新的用户设置，最好停用再重启Stop-wg-and-then-restart"><a href="#生成新的用户设置，最好停用再重启Stop-wg-and-then-restart" class="headerlink" title="生成新的用户设置，最好停用再重启Stop wg and then restart"></a>生成新的用户设置，最好停用再重启Stop wg and then restart</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ wg-quick down wg0<br>$ wg-quick up wg0<br></code></pre></td></tr></table></figure><h2 id="开机自动启动Auto-Start"><a href="#开机自动启动Auto-Start" class="headerlink" title="开机自动启动Auto Start"></a>开机自动启动Auto Start</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ systemctl <span class="hljs-built_in">enable</span> wg-quick@wg0<br>$ systemctl start wg-quick@wg0<br></code></pre></td></tr></table></figure>]]></content>
     
@@ -11021,6 +11048,8 @@
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
@@ -13054,7 +13083,7 @@
     <link href="https://node.umelabs.dev/2020/ckos3k5vi00a2x7pi5vwr9gzb/"/>
     <id>https://node.umelabs.dev/2020/ckos3k5vi00a2x7pi5vwr9gzb/</id>
     <published>2020-04-13T08:45:59.000Z</published>
-    <updated>2021-04-16T11:12:02.238Z</updated>
+    <updated>2021-08-26T15:14:06.102Z</updated>
     
     <content type="html"><![CDATA[<blockquote style="border-left:2px solid red;">这个网站主要是想给大家提供一些SS/SSR/V2Ray免费节点使用，因为有的时候没有备用方案，导致自己使用的科学上网ip或者端口被封闭，而暂时失联是一件很苦恼的事情。</blockquote><blockquote style="border-left:2px solid red;">还有一些人，科学上网不是刚需，所以自己搭建服务器并没有那么重要，所以免费节点刚好可以解决这个问题。不过大家需要注意的是这些节点并不是很安全！</blockquote><span id="more"></span><h1 id="主要的作用"><a href="#主要的作用" class="headerlink" title="主要的作用"></a>主要的作用</h1><ol><li><p>更新SS/SSR/V2Ray免费节点</p></li><li><p>科学上网图文搭建教程</p></li></ol><h1 id="免费节点更新时间"><a href="#免费节点更新时间" class="headerlink" title="免费节点更新时间"></a>免费节点更新时间</h1><p>每天<del>20:00</del></p><h1 id="获取免费节点办法"><a href="#获取免费节点办法" class="headerlink" title="获取免费节点办法"></a>获取免费节点办法</h1><ol><li>这个网站：<a href="https://node.umelabs.dev">https://node.umelabs.dev</a></li><li>YouTube频道：<a href="https://www.youtube.com/watch?v=ANgdDISlMcw">https://www.youtube.com/watch?v=ANgdDISlMcw</a></li><li>Github：<a href="https://github.com/umelabs/node.umelabs.dev">https://github.com/umelabs/node.umelabs.dev</a></li><li>通过RSS订阅这个网站，<a href="https://node.umelabs.dev/atom.xml">https://node.umelabs.dev/atom.xml</a></li></ol><h1 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h1><blockquote><p>如果你想看我的视频教程，或者对一些技术性的东西比较感兴趣，可以关注我的YouTube频道</p></blockquote><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><p>👏欢迎大家订阅YouTube频道：<a href="https://bit.ly/2RABVBt">https://bit.ly/2RABVBt</a></p><h3 id="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1"><a href="#🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸-1" class="headerlink" title="🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸"></a>🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸</h3><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3><p>💥了解系列视频：<a href="https://bit.ly/2VsR4Gi">https://bit.ly/2VsR4Gi</a></p><h3 id="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1"><a href="#⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️-1" class="headerlink" title="⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️"></a>⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️</h3>]]></content>
     
@@ -13075,6 +13104,8 @@
       <category term="翻墙" scheme="https://node.umelabs.dev/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="教程" scheme="https://node.umelabs.dev/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="文章集合" scheme="https://node.umelabs.dev/tags/%E6%96%87%E7%AB%A0%E9%9B%86%E5%90%88/"/>
     
   </entry>
   
