@@ -10347,12 +10347,12 @@ body > .section {
   padding-bottom: 0 !important;
 }
 .ml-1,
-.mx-1 {
+.mx-1,
+.article-licensing .licensing-meta .icons .icon {
   margin-left: 0.25rem !important;
 }
 .mr-1,
-.mx-1,
-.article-licensing .licensing-meta .icon {
+.mx-1 {
   margin-right: 0.25rem !important;
 }
 .ml-n1,
@@ -10855,6 +10855,10 @@ article.article .content .message.message-immersive {
 article.article .content .message.message-immersive .message-body {
   border: none;
 }
+article.article .article-tags {
+  display: flex;
+  flex-wrap: wrap;
+}
 .rtl {
   direction: rtl;
 }
@@ -10910,7 +10914,7 @@ article.article .content .message.message-immersive .message-body {
 .article-licensing .licensing-title {
   line-height: 1.2;
 }
-.article-licensing .licensing-meta .icon {
+.article-licensing .licensing-meta .icons .icon {
   width: 1.2em;
   height: 1.2em;
   font-size: 1.2em;
@@ -10933,6 +10937,9 @@ a.article-nav-next span {
 }
 .navbar-main {
   box-shadow: none;
+}
+.navbar-main .navbar-container {
+  overflow-x: auto;
 }
 .navbar-main .navbar-menu,
 .navbar-main .navbar-start,
@@ -10978,6 +10985,12 @@ a.article-nav-next span {
 }
 .navbar-logo img {
   max-height: 1.75rem;
+}
+@media screen and (min-width: 1088px) {
+  .navbar > .container .navbar-menu,
+  .container > .navbar .navbar-menu {
+    margin-right: 0rem;
+  }
 }
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
@@ -11325,6 +11338,9 @@ figure.highlight .section {
   min-width: inherit;
   border-radius: inherit;
 }
+figure.highlight.foldable div.level-left {
+  cursor: pointer;
+}
 .gist table tr:hover {
   background: transparent;
 }
@@ -11363,6 +11379,39 @@ figure.highlight .section {
 }
 .level.is-multiline {
   flex-wrap: wrap;
+}
+@media screen and (max-width: 768px) {
+  .widget.card#toc {
+    display: none;
+    position: fixed;
+    margin: 1rem;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+  }
+  .widget.card#toc .card-content {
+    padding: 0;
+  }
+  .widget.card#toc .menu {
+    padding: 1.5rem;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+  }
+  #toc-mask {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99;
+    background: rgba(0,0,0,0.7);
+  }
+  .widget.card#toc.is-active,
+  #toc-mask.is-active {
+    display: block;
+  }
 }
 .donate {
   position: relative;
@@ -11495,33 +11544,6 @@ figure.highlight .section {
 .gallery-item .caption {
   color: #848484;
 }
-@media screen and (max-width: 768px) {
-  #toc {
-    display: none;
-    position: fixed;
-    margin: 1rem;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
-    max-height: calc(100vh - 2rem);
-    overflow-y: auto;
-  }
-  #toc-mask {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 99;
-    background: rgba(0,0,0,0.7);
-  }
-  #toc.is-active,
-  #toc-mask.is-active {
-    display: block;
-  }
-}
 .pace {
   user-select: none;
   pointer-events: none;
@@ -11546,6 +11568,9 @@ figure.highlight .section {
   line-height: inherit;
 }
 .MathJax,
+.MathJax_Display,
+.MJXc-display,
+.MathJax_SVG_Display,
 .katex-display {
   overflow-x: auto;
   overflow-y: hidden;
